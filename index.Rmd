@@ -81,12 +81,14 @@ Cortou o pão finamente.
 
 5. 
 <div><div class="alert alert-primary" role="alert">
-いもうとは　１７さい（　　　）　がくせいです。  
+いもうとは　１７さい（で）　がくせいです。  
 に　　と　　で　　な  
 </div><div class="alert alert-info" role="alert">
 Minha irmã mais nova é uma estudante de 17 anos.  
 </div><div class="alert alert-dark" role="alert">
-Sensei, não faço idéia de como resolver isso.
+Sensei, não faço idéia de como resolver isso. Contudo, utilizarei a seguinte explicação para embasar a minha resposta:  
+CDは　5まいで　10 reais です。  
+`Quantidade`で `Preço`  
 </div></div>
 
 6. 
@@ -251,6 +253,7 @@ Todos os dias depois de tomar uma ducha/um banho eu durmo.
 V-`て` + から  
 Para enfatizar uma ação que acontece anteriormente.  
 Try - Página 81 - Item 31.  
+Minna no Nihongo - Página 136 - Dai16ka  
 </div></div>
 
 19. 
@@ -259,6 +262,8 @@ Try - Página 81 - Item 31.
 が　　か　　も　　で  
 </div><div class="alert alert-info" role="alert">
 Qual é a melhor fruta?
+</div><div class="alert alert-warning" role="alert">
+O tópico principal é sobre fruta, mas o sujeito da oração é _a melhor fruta_.
 </div></div>
 
 20. 
@@ -273,155 +278,236 @@ Conjugação do い-adj no presente e no modo negativo.
 
 21. 
 <div><div class="alert alert-primary" role="alert">
-21．あのビルは　エレベーターが　（　　　　　　　）、べんりです。  
+あのビルは　エレベーターが　（ある）、べんりです。  
 ある　　　　あって　　　あった　　　あるで  
 </div><div class="alert alert-info" role="alert">
 Aquele prédio tem um elevador (que é prático).  
-</div><div class="alert alert-warning" role="alert">
-
-
+</div><div class="alert alert-dark" role="alert">
+せんせい, chutei essa resposta. あった eu uso no passado. あるで fica estranho porque で é para referir-se ao meio de transporte/locomoção. あって eu uso para dar uma ordem ou para dar uma ordem/sequencia de ações.  
 </div></div>
 
 22. 
 <div><div class="alert alert-primary" role="alert">
-22．テストをしていますから、（　　　　　　　　）して　ください。  
+テストをして　いますから、（しすかに）　して　ください。   
 しすかに　　　しずかだ　　　しずか　　　しすかで  
 </div><div class="alert alert-info" role="alert">
-
+Como estão fazendo exame/teste, por favor, faça silêncio.  
+</div><div class="alert alert-warning" role="alert">
+な-adj + に + V-`て` + ください  
+しすか + に + して　ください  
 </div></div>
 
 23. 
 <div><div class="alert alert-primary" role="alert">
-23．こどものとき、やさいが　　すき（　　　　　　　　　　　　　）。  
+こどものとき、やさいが　　すき（ではありませんでした）。  
 ではありませんでした　　くなかったです　　　ではないでした  
 </div><div class="alert alert-info" role="alert">
-
+Quando criança não gostava de vegetais.
+</div><div class="alert alert-warning" role="alert">
+すき é um な-adj e deve ser conjugado para este caso no passado e na forma negativa.  
+Try - Página 39 - Item 9  
+`N` + が + すきです  
+Try - Página 70 - Item 26  
+`N`のとき  
+Minna no Nihongo - Dai23ka  
 </div></div>
 
 24. 
 <div><div class="alert alert-primary" role="alert">
-24．らいしゅう　（　　　　　　　）人は　だれですか。  
+らいしゅう　（来る）　人は　だれですか。  
 来た　　　　　来て　　　来る　　　来ます  
 </div><div class="alert alert-info" role="alert">
-
+Na próxima semana que pessoa virá?  
+</div><div class="alert alert-info" role="alert">
+せんせい, não sei como referir algo no futuro. 来た é no passado, 来ます é presente e 来て é ordem ou sequencia de ações. Escolhi o 来る por exclusão.
 </div></div>
 
 25. 
 <div><div class="alert alert-primary" role="alert">
-25．土曜日は　さんぽ（　　　　）ゲームを（　　　　　）します。  
+土曜日は　さんぽ（したり）　ゲームを（したり）　します。  
 したり／したり　　しったり／しったり　　して／して  
 </div><div class="alert alert-info" role="alert">
-
+No sábado vou passear e jogar video-game.
+</div><div class="alert alert-warning" role="alert">
+V-`た`+り + V-`た`+り + します  
+Quando queremos falar que fizemos mais de uma ação. Não exprime ordem dos acontecimentos.  
+Try - Página 89  
+し`ます`  
+し`たり`  
+Try - Página 89 - Conjugação forma V-`た`  
 </div></div>
 
 26. 
 <div><div class="alert alert-primary" role="alert">
-26．きのうは　だれも（　　　　　　　　　　　　　　）  
+きのうは　だれも　（来ませんでした）。  
 来ました　　　来ませんでした　　来たです　　来ないでした  
 </div><div class="alert alert-info" role="alert">
-
+Ontem (também) não veio ninguém.  
+</div><div class="alert alert-warning" role="alert">
+A palavra きのう já determina o tempo do verbal de 来る no passado. A partícula も nos dá o indicativo que a frase deve ser uma negativa, pois esta está em concordância com uma frase omitida (Por exemplo: Hoje não veio ninguem. Ontem também não veio ninguém.)
 </div></div>
 
 27. 
 <div><div class="alert alert-primary" role="alert">
-27．あしたは　かぜが　（　　　　　　　　）でしょう。  
+27．あしたは　かぜが　（つよい）でしょう。  
 つよかった　　　　　つよくて　　　　つよい　　　つよく  
 </div><div class="alert alert-info" role="alert">
-
+Amanhã ventará forte.
+</div><div class="alert alert-warning" role="alert">
+Vocabulário: <ruby>強<rt>つよ</rt></ruby>い = Forte = い-adj  
+A palavra あした situa a frase no futuro. Desta maneira, つよかった que está no passado deve ser descartado. つよくて deveria ser usado caso tivesse algum adjetivo após つよい. つよく deveria ser usado em caso de uma sentença negativa. </div><div class="alert alert-dark" role="alert">
+ せんせい, não achei em nenhum livro alguma explicação para esse tipo de frase com terminação V-`でしょう`.  
 </div></div>
 
 28. 
 <div><div class="alert alert-primary" role="alert">
-28．山へは　ぼうしを（　　　　　　　　　　　）行きましょう。  
+山へは　ぼうしを（かぶって）行きましょう。  
 かぶって　　　　かぶりて　　　かぶて　　　かぶり  
 </div><div class="alert alert-info" role="alert">
-
+Vista o boné, vamos ao topo da montanha.  
+</div><div class="alert alert-warning" role="alert">
+Vocabulário: <ruby>被<rt>かぶ</rt></ruby>る = vestir (algo na cabeça).
+V-`ましょう`  
+Try - Página 58 - Item 19  
+V-`て`, ...  
+Usado para colocar ações em ordem.
+Try - Página 44 - Item 11
 </div></div>
 
 29. 
 <div><div class="alert alert-primary" role="alert">
-29．（　　　　　　　　　　　　）なりましたね。  
+（さむく）なりましたね。  
 さむい　　　　さむく　　　さむいく　　さむいに  
 </div><div class="alert alert-info" role="alert">
-
+Tornou-se frio né!?/Ficou frio né!?  
+</div><div class="alert alert-warning" role="alert">
+い-adj + `なる`  
+Para os casos de い-adj deve-se substituir o `い` do adjetivo pelo `く`.  
+さむ`い`  
+さむ`く`  
 </div></div>
 
 30. 
 <div><div class="alert alert-primary" role="alert">
-30．イビラプエラは　とても　（　　　　　　　　）こうえんが　あります。  
+イビラプエラは　とても　（きれいな）こうえんが　あります。  
 きれいな　　　きれいで　　　きれいに　　きれい  
 </div><div class="alert alert-info" role="alert">
-
+O Ibirapuera é um parque muito bonito/limpo.
+</div><div class="alert alert-warning" role="alert">
+きれい é um な-adj e quando precedido de um substantivo deve-se adicionar um `な`.  
+な-adj + `な` + `N`   
+きれい + な +  こうえん  
 </div></div>
 
 31. 
 <div><div class="alert alert-primary" role="alert">
-31．お父さんの車は（　　　　　　　　　）、きれいです。  
+お父さんの車は（あたらしくて）、きれいです。  
 あたらしい　　　あたらしくて　　　あたらしいと　　　あたらしいの  
 </div><div class="alert alert-info" role="alert">
-
+O automóvel do papai é novo e bonito.  
+</div><div class="alert alert-warning" role="alert">
+O い-adj quando precedido de outro adjetivo deve ter o い substituído pelo `くて`.  
+い-adj + `くて` + い/な-adj  
+あたらし + `くて` + きれい です  
 </div></div>
 
 32. 
 <div><div class="alert alert-primary" role="alert">
-32．きのうの　えいがは　あまり（　　　　　　　　　）ですね。  
+きのうの　えいがは　あまり（おもしろくなかった）ですね。  
 おもしろかった　　おもしろい　　おもしろくなかった　おもしろくない  
 </div><div class="alert alert-info" role="alert">
-
+O filme de ontem estava interessante né!?.  
+</div><div class="alert alert-warning" role="alert">
+A palavra きのう situa a frase no passado e o termo あまり só é usado em frases negativas. Portanto, deve-se conjugar o い-adj おもしろい no passado e na forma negativa.  
+おもしろくなかった  
 </div></div>
 
 33. 
 <div><div class="alert alert-primary" role="alert">
-33．テストですから、じしょを（　　　　　　　）ください。  
+テストですから、じしょを（みないで）ください。  
 みて　　みないで　　　　みたり　　　みない  
 </div><div class="alert alert-info" role="alert">
-
+Como é um teste, por favor, não use o dicionário.  
+</div><div class="alert alert-warning" role="alert">
+`~から` é usado para explicar a consequencia de uma ação.  
+Try - Página 70 - Item 25  
+Quando pedimos para uma pessoa não fazer determinadas coisas.  
+V-`ないで` + ください  
+Try - Página 84 - Item 32  
 </div></div>
 
 34. 
 <div><div class="alert alert-primary" role="alert">
-34．いっしょに　えいがを（　　　　　　　　　）行きませんか。  
+いっしょに　えいがを（見に）行きませんか。  
 見に　　　　見て　　　　見る　　　　見よう  
 </div><div class="alert alert-info" role="alert">
-
+Quer ir assistir um filme junto (comigo)?  
+</div><div class="alert alert-warning" role="alert">
+Essa construção é usada para dizer quando iremos para algum lugar para fazer algo.  
+Usa-se a forma V-`ます` e depois substitui o `ます` pelo `に`.  
+V + `に` + 行きます  
+見 + `に` + 行きます  
+Try - Página 71 - Item 27  
 </div></div>
 
 35. 
 <div><div class="alert alert-primary" role="alert">
-35．きのう　（　　　　　　）ラーメンは　おいしかったです。  
+きのう　（食べた）　ラーメンは　おいしかったです。  
 食べた　　　食べった　　　食べて　　　食べる  
 </div><div class="alert alert-info" role="alert">
-
+Ontem comi um Lámen saboroso.  
+</div><div class="alert alert-warning" role="alert">
+A palavra きのう determina o tempo verbal que deve ser o passado.  
 </div></div>
 
 36. 
 <div><div class="alert alert-primary" role="alert">
-36．うたを（　　　　　　　）ながら　しゅくだいをします。  
+うたを（聞き）ながら　しゅくだいをします。  
 聞き　　　　聞く　　　聞いて　　　聞いた  
 </div><div class="alert alert-info" role="alert">
-
+Enquanto faço a lição de casa eu escuto música.  
+</div><div class="alert alert-warning" role="alert">
+A construção das frases com o ながら devem ser feitas a partir do V-ます, substitui-se o ます pelo ながら.
+V + `ながら`  
+聞き`ます`  
+聞き`ながら`  
+Try - Página 94 - Item 38   
 </div></div>
 
 37. 
 <div><div class="alert alert-primary" role="alert">
-37．としょかんへ（　　　　　　　）、本をかりました。  
+としょかんへ（行って）、本をかりました。  
 行く　　　　行って　　　行きて　　行った  
 </div><div class="alert alert-info" role="alert">
-
+Fui à biblioteca emprestar um livro.  
+</div><div class="alert alert-warning" role="alert">
+O uso do V-te para explicar ações consecutivas.  
+V-`て`  
+Try - Página 44 - Item 11  
 </div></div>
 
 38. 
 <div><div class="alert alert-primary" role="alert">
-38．　MNラーメン、いっしょに（　　　　　　）行きませんか。  
+MNラーメン、いっしょに（たべに）行きませんか。  
 たべる　　　　たべに　　　たべて　　　たべた  
 </div><div class="alert alert-info" role="alert">
-
+Quer ir para o MN Ramen para comer?  
+</div><div class="alert alert-warning" role="alert">
+Quando falamos sobre ir para um lugar (usando verbos いきます, きます ou かえります) para fazer algo (たべる).  
+Usamos a forma V-masu e substituímos o masu pelo ni.
+V + `に` + いきます  
+たべ + `に` + いきます  
+Try - Página 71 - Item 27  
 </div></div>
 
 39. 
 <div><div class="alert alert-primary" role="alert">
-39．（　　　　　　　　　）やすいレストランに行きましょう。  
+（おいしくて）やすいレストランに行きましょう。  
 おいしい　　　おいしくて　　　おいしいと　　おいしいに  
 </div><div class="alert alert-info" role="alert">
-
+Vamos num restaurante barato e gostoso.  
+</div><div class="alert alert-warning" role="alert">
+O adjetivo おいしい que é い-adj deve ter um `くて` no lugar do `い`, pois está antes de outro adjetivo.  
+おいし`い`  
+おいし`くて`  
 </div></div>
