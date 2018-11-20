@@ -1,0 +1,80 @@
+---
+title: "Renshuu"
+author: "植北　ひとし"
+date: "19 de novembro de 2018"
+output:
+  html_document:
+    theme: flatly
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+
+
+</head>
+
+## N5 Adjetivo verbo 1
+
+### Legenda
+
+a. <div class="alert alert-primary" role="alert">Pergunta</div>
+
+b. <div class="alert alert-info" role="alert">Tradução</div>
+
+c. <div class="alert alert-warning" role="alert">Explicação da resposta</div>
+
+d. <div class="alert alert-dark" role="alert">Dúvida</div>
+
+
+### Respostas
+
+1. 
+<div><div class="alert alert-primary" role="alert">
+わたしの　アパートは　（しずかで）　いいです。  
+しずかく　　　　しずかで　　　しずかの　　　しずかと
+</div><div class="alert alert-info" role="alert">
+O meu apartamento é tranquilo e bom.
+</div><div class="alert alert-warning" role="alert">
+い-adj + い/な-adj  
+しずか é um な-adj, logo se deve introduzir `で` quando precidido de outro adjetivo.  
+</div></div>
+
+2. 
+<div><div class="alert alert-primary" role="alert">
+こうえんは（ひろくて）きれいです。   
+ひろい　　　　　ひろいで　　　ひろくて　　　ひろいな
+</div><div class="alert alert-info" role="alert">
+O parque é largo e bonito/limpo.  
+</div><div class="alert alert-warning" role="alert">
+い-adj + い/な-adj  
+ひろい é um い-adj, logo se deve introduzir `くて` quando precidido de outro adjetivo.  
+</div></div>
+
+3. 
+<div><div class="alert alert-primary" role="alert">
+ここに　かばんを　（おく）ないで　ください。  
+おか　　　　　おき　　　　おく　　　おけ  
+</div><div class="alert alert-info" role="alert">
+Por favor, não deixe a bolsa aqui.  
+</div><div class="alert alert-warning" role="alert">
+Vocabulário: Não confundir <ruby>置<rt>お</rt></ruby>く (colocar) com <ruby>起<rt>お</rt></ruby>きる (acordar).  
+Detalhes da gramática: Try - página 84
+</div></div>
+
+4. 
+<div><div class="alert alert-primary" role="alert">
+パンを　（うすく） きりました。  
+うす　　　　　うすく　　　　うすい　　　うすいで  
+</div><div class="alert alert-info" role="alert">
+Cortou o pão finamente.  
+うすい é um い-adj e nesta construção significa fino. Como é precedido de um verbo adiciona-se o `く`.
+</div><div class="alert alert-warning" role="alert">
+い-adj + Verbo
+</div></div>
