@@ -147,9 +147,9 @@ Try - Página 80 - Item 30
 Antes de assistir TV farei a lição de casa.  
 </div><div class="alert alert-warning" role="alert">
 V-`る` + まえに  
-É usado para dizer a ordem que as ações ocorream. A acontece antes de B.  
-`B`する まえに、`A`します。　　
-Try - Página 93 - Item 37  
+É usado para dizer a ordem que as ações ocorream. A acontece antes de B.     
+`B`する まえに、`A`します。    
+Try - Página 93 - Item 37     
 </div></div>
 
 11. 
@@ -170,7 +170,7 @@ Try - Página 89 - Conjugação forma V-`た`
 ごはんを　（たべて）ください。  
 たべる　　　　たべた　　　たべて　　　たべって  
 </div><div class="alert alert-info" role="alert">
-Por favor, como a refeição/comida.  
+Por favor, coma a refeição/comida.  
 </div><div class="alert alert-warning" role="alert">
 V-`て` + ください  
 Para pedir/recomendar que uma pessoa faça alguma coisa.
@@ -191,64 +191,237 @@ Try - Página 94 - Item 38
 
 14. 
 <div><div class="alert alert-primary" role="alert">
-14．ホテルは（　　　　　　　　　　）。  
-きれくなかった　　　きれくありませんでした　　きれいじゃありませんでした  
+ホテルは（きれい じゃ ありませんでした）。  
+きれくなかった　　　きれくありませんでした　　きれいじゃ ありませんでした  
 </div><div class="alert alert-info" role="alert">
-
+O hotel não era bonito/limpo.  
+</div><div class="alert alert-warning" role="alert">
+Conjugação de verbos (な-adj) modo negativo e no passado.  
+きれい : きれい じゃ ありませんでした   
 </div></div>
 
 15. 
 <div><div class="alert alert-primary" role="alert">
-15．きのうは（　　　　　　　　　　　）。  
-さむくなかったです。　さむくなかったでした。さむいじゃなかったです。  
+きのうは　（さむくなかったです）。  
+さむくなかったです。　さむくなかったでした。　　さむいじゃなかったです。  
 </div><div class="alert alert-info" role="alert">
-
+Ontem estava frio.  
+</div><div class="alert alert-info" role="alert">
+Conjugação de verbos (い-adj) modo negativo e no passado.  
+さむい : さむくなかった  
+Try - Página 39 - Item 9 - Conjugação de Verbos, Adjetivos e Substantivos.  
 </div></div>
 
 16. 
 <div><div class="alert alert-primary" role="alert">
-16．かいしゃへ（　　　　　　　　）まえに、ぎんこうに行きます。  
+16．かいしゃへ　（行く）　まえに、ぎんこうに　行きます。  
 行った　　　　行って　　　　行く　　　行こう  
 </div><div class="alert alert-info" role="alert">
-
+Antes de ir à empresa, irei ao banco.
+</div><div class="alert alert-warning" role="alert">
+V-`る` + まえに  
+É usado para dizer a ordem que as ações ocorream. A acontece antes de B.  
+`B`する まえに、`A`します。   
+Try - Página 93 - Item 37   
 </div></div>
 
 17. 
 <div><div class="alert alert-primary" role="alert">
-17．これは　きょねん　（　　　　　　　）カメラです。  
+これは　きょねん　（かった）　カメラです。  
 かう　　　　かいた　　　かった　　　かいます  
 </div><div class="alert alert-info" role="alert">
-
+Esta câmera comprei ano passado.  
+</div><div class="alert alert-warning" role="alert">
+Conjugação do verbo かう no passado.  
+Grupo 1  
+V-`る` : かう  
+V-`て` : かって  
+V-`た` : かった  
+</div><div class="alert alert-dark" role="alert">
+せんせい, qual é a diferença entre かった e かいました?  
 </div></div>
 
 18. 
 <div><div class="alert alert-primary" role="alert">
-18．毎日、シャワーを（　　　　　　　　　）から　ねます。  
+毎日、シャワーを（あびて）から　ねます。  
 あびる　　　あびて　　あびって　　あびます  
 </div><div class="alert alert-info" role="alert">
-
+Todos os dias depois de tomar uma ducha/um banho eu durmo.   
+</div><div class="alert alert-warning" role="alert">
+V-`て` + から  
+Para enfatizar uma ação que acontece anteriormente.  
+Try - Página 81 - Item 31.  
 </div></div>
 
 19. 
 <div><div class="alert alert-primary" role="alert">
-19・いちばん　（が・か・も・で）くだものは　なんですか。  
-すき　　　　　すきな　　　すきだ　　　すきの  
+いちばん（が）　くだものは　なんですか。  
+が　　か　　も　　で  
 </div><div class="alert alert-info" role="alert">
-
+Qual é a melhor fruta?
 </div></div>
 
 20. 
 <div><div class="alert alert-primary" role="alert">
-20．きょうは　あまり　（　　　　　　　　）ありません。  
+きょうは　あまり　（いそがしく）　ありません。  
 いそがしい　　　いそがしく　　　いそがしいじゃ　　いそがしいでは  
 </div><div class="alert alert-info" role="alert">
-
+Hoje não está atarefado.
+</div><div class="alert alert-warning" role="alert">
+Conjugação do い-adj no presente e no modo negativo.
 </div></div>
 
 21. 
 <div><div class="alert alert-primary" role="alert">
 21．あのビルは　エレベーターが　（　　　　　　　）、べんりです。  
 ある　　　　あって　　　あった　　　あるで  
+</div><div class="alert alert-info" role="alert">
+Aquele prédio tem um elevador (que é prático).  
+</div><div class="alert alert-warning" role="alert">
+
+
+</div></div>
+
+22. 
+<div><div class="alert alert-primary" role="alert">
+22．テストをしていますから、（　　　　　　　　）して　ください。  
+しすかに　　　しずかだ　　　しずか　　　しすかで  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+23. 
+<div><div class="alert alert-primary" role="alert">
+23．こどものとき、やさいが　　すき（　　　　　　　　　　　　　）。  
+ではありませんでした　　くなかったです　　　ではないでした  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+24. 
+<div><div class="alert alert-primary" role="alert">
+24．らいしゅう　（　　　　　　　）人は　だれですか。  
+来た　　　　　来て　　　来る　　　来ます  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+25. 
+<div><div class="alert alert-primary" role="alert">
+25．土曜日は　さんぽ（　　　　）ゲームを（　　　　　）します。  
+したり／したり　　しったり／しったり　　して／して  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+26. 
+<div><div class="alert alert-primary" role="alert">
+26．きのうは　だれも（　　　　　　　　　　　　　　）  
+来ました　　　来ませんでした　　来たです　　来ないでした  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+27. 
+<div><div class="alert alert-primary" role="alert">
+27．あしたは　かぜが　（　　　　　　　　）でしょう。  
+つよかった　　　　　つよくて　　　　つよい　　　つよく  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+28. 
+<div><div class="alert alert-primary" role="alert">
+28．山へは　ぼうしを（　　　　　　　　　　　）行きましょう。  
+かぶって　　　　かぶりて　　　かぶて　　　かぶり  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+29. 
+<div><div class="alert alert-primary" role="alert">
+29．（　　　　　　　　　　　　）なりましたね。  
+さむい　　　　さむく　　　さむいく　　さむいに  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+30. 
+<div><div class="alert alert-primary" role="alert">
+30．イビラプエラは　とても　（　　　　　　　　）こうえんが　あります。  
+きれいな　　　きれいで　　　きれいに　　きれい  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+31. 
+<div><div class="alert alert-primary" role="alert">
+31．お父さんの車は（　　　　　　　　　）、きれいです。  
+あたらしい　　　あたらしくて　　　あたらしいと　　　あたらしいの  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+32. 
+<div><div class="alert alert-primary" role="alert">
+32．きのうの　えいがは　あまり（　　　　　　　　　）ですね。  
+おもしろかった　　おもしろい　　おもしろくなかった　おもしろくない  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+33. 
+<div><div class="alert alert-primary" role="alert">
+33．テストですから、じしょを（　　　　　　　）ください。  
+みて　　みないで　　　　みたり　　　みない  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+34. 
+<div><div class="alert alert-primary" role="alert">
+34．いっしょに　えいがを（　　　　　　　　　）行きませんか。  
+見に　　　　見て　　　　見る　　　　見よう  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+35. 
+<div><div class="alert alert-primary" role="alert">
+35．きのう　（　　　　　　）ラーメンは　おいしかったです。  
+食べた　　　食べった　　　食べて　　　食べる  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+36. 
+<div><div class="alert alert-primary" role="alert">
+36．うたを（　　　　　　　）ながら　しゅくだいをします。  
+聞き　　　　聞く　　　聞いて　　　聞いた  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+37. 
+<div><div class="alert alert-primary" role="alert">
+37．としょかんへ（　　　　　　　）、本をかりました。  
+行く　　　　行って　　　行きて　　行った  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+38. 
+<div><div class="alert alert-primary" role="alert">
+38．　MNラーメン、いっしょに（　　　　　　）行きませんか。  
+たべる　　　　たべに　　　たべて　　　たべた  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+39. 
+<div><div class="alert alert-primary" role="alert">
+39．（　　　　　　　　　）やすいレストランに行きましょう。  
+おいしい　　　おいしくて　　　おいしいと　　おいしいに  
 </div><div class="alert alert-info" role="alert">
 
 </div></div>
