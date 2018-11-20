@@ -78,3 +78,177 @@ Cortou o pão finamente.
 </div><div class="alert alert-warning" role="alert">
 い-adj + Verbo
 </div></div>
+
+5. 
+<div><div class="alert alert-primary" role="alert">
+いもうとは　１７さい（　　　）　がくせいです。  
+に　　と　　で　　な  
+</div><div class="alert alert-info" role="alert">
+Minha irmã mais nova é uma estudante de 17 anos.  
+</div><div class="alert alert-dark" role="alert">
+Sensei, não faço idéia de como resolver isso.
+</div></div>
+
+6. 
+<div><div class="alert alert-primary" role="alert">
+いっしょに　（かえり）ましょう。    
+かえ　　　　かえり　　　　かえる　　　　かえって    
+</div><div class="alert alert-info" role="alert">
+Vamos voltar juntos.
+</div><div class="alert alert-warning" role="alert">
+Para construir a forma V-ましょう deve-se retirar o ます e substituir pelo ましょう.    
+かえり`ます`   
+かえり`ましょう`   
+Try - Página 58 - Item 19
+</div></div>
+
+7. 
+<div><div class="alert alert-primary" role="alert">
+本を（よむ）とき、めがねを かけます。  
+よむ　　　　よみ　　　よんで　　　よんだ  
+</div><div class="alert alert-info" role="alert">
+Quando leio livros uso os óculos.
+</div><div class="alert alert-warning" role="alert">
+V-`る` + とき  
+</div><div class="alert alert-dark" role="alert">
+せんせい, não tenho certeza se a minha resposta está correta porque ainda não cheguei na lição 23 do みんなの日本語, mas folheando o livro cheguei nessa conclusão.
+</div></div>
+
+8. 
+<div><div class="alert alert-primary" role="alert">
+テストが（おわった）あとで、パーティをします。  
+おわった　　　おわる　　　　おわって　　おわります  
+</div><div class="alert alert-info" role="alert">
+Depois de terminar o teste, faremos uma festa.
+</div><div class="alert alert-warning" role="alert">
+Vocabulário: おわる = Terminar  = Grupo 1  
+V-`た` + あとで,...  
+Try - Página 92 - Item 36  
+Try - Página 89 - Conjugação forma V-`た`  
+</div></div>
+
+9. 
+<div><div class="alert alert-primary" role="alert">
+しゅくだいを（して）から、テレビを見ます。  
+した　　　　　　する　　　　して　　　します  
+</div><div class="alert alert-info" role="alert">
+Como eu fiz a lição de casa vou assistir TV.  
+</div><div class="alert alert-warning" role="alert">
+V-`て` + から
+É usado para da ênfase à ação realizada anteriormente.  
+Try - Página 80 - Item 30  
+</div></div>
+
+10. 
+<div><div class="alert alert-primary" role="alert">
+テレビを（見る）まえに、しゅくだいをします。  
+見た　　　　　　見る　　　　見て　　　見ます  
+</div><div class="alert alert-info" role="alert">
+Antes de assistir TV farei a lição de casa.  
+</div><div class="alert alert-warning" role="alert">
+V-`る` + まえに  
+É usado para dizer a ordem que as ações ocorream. A acontece antes de B.  
+`B`する まえに、`A`します。　　
+Try - Página 93 - Item 37  
+</div></div>
+
+11. 
+<div><div class="alert alert-primary" role="alert">
+やすみの日は　えいがを（み）たり、かいものを したり します。  
+みる　　　　　みた　　　　　み　　　　みっ  
+</div><div class="alert alert-info" role="alert">
+No dia de folga vou assistir filme e fazer compras.  
+</div><div class="alert alert-warning" role="alert">
+V-`た`+り + V-`た`+り + します  
+Quando queremos falar que fizemos mais de uma ação. Não exprime ordem dos acontecimentos.  
+Try - Página 89  
+Try - Página 89 - Conjugação forma V-`た`  
+</div></div>
+
+12. 
+<div><div class="alert alert-primary" role="alert">
+ごはんを　（たべて）ください。  
+たべる　　　　たべた　　　たべて　　　たべって  
+</div><div class="alert alert-info" role="alert">
+Por favor, como a refeição/comida.  
+</div><div class="alert alert-warning" role="alert">
+V-`て` + ください  
+Para pedir/recomendar que uma pessoa faça alguma coisa.
+</div></div>
+
+13. 
+<div><div class="alert alert-primary" role="alert">
+テレビを（み）ながら　ごはんを食べます。  
+みる　　　　　みた　　　　　み　　　　みっ  
+</div><div class="alert alert-info" role="alert">
+Enquanto janto assisto TV.  
+</div><div class="alert alert-warning" role="alert">
+Nesta construção deve-se usar o V-`ます`, contudo se deve retirar o masu e substituí-lo pelo `ながら`.  
+み`ます`  
+み`ながら`  
+Try - Página 94 - Item 38
+</div></div>
+
+14. 
+<div><div class="alert alert-primary" role="alert">
+14．ホテルは（　　　　　　　　　　）。  
+きれくなかった　　　きれくありませんでした　　きれいじゃありませんでした  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+15. 
+<div><div class="alert alert-primary" role="alert">
+15．きのうは（　　　　　　　　　　　）。  
+さむくなかったです。　さむくなかったでした。さむいじゃなかったです。  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+16. 
+<div><div class="alert alert-primary" role="alert">
+16．かいしゃへ（　　　　　　　　）まえに、ぎんこうに行きます。  
+行った　　　　行って　　　　行く　　　行こう  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+17. 
+<div><div class="alert alert-primary" role="alert">
+17．これは　きょねん　（　　　　　　　）カメラです。  
+かう　　　　かいた　　　かった　　　かいます  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+18. 
+<div><div class="alert alert-primary" role="alert">
+18．毎日、シャワーを（　　　　　　　　　）から　ねます。  
+あびる　　　あびて　　あびって　　あびます  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+19. 
+<div><div class="alert alert-primary" role="alert">
+19・いちばん　（が・か・も・で）くだものは　なんですか。  
+すき　　　　　すきな　　　すきだ　　　すきの  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+20. 
+<div><div class="alert alert-primary" role="alert">
+20．きょうは　あまり　（　　　　　　　　）ありません。  
+いそがしい　　　いそがしく　　　いそがしいじゃ　　いそがしいでは  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
+
+21. 
+<div><div class="alert alert-primary" role="alert">
+21．あのビルは　エレベーターが　（　　　　　　　）、べんりです。  
+ある　　　　あって　　　あった　　　あるで  
+</div><div class="alert alert-info" role="alert">
+
+</div></div>
