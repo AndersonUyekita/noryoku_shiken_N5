@@ -1,6 +1,6 @@
 ---
 title: "Conjugação"
-author: "Anderson Uyekita"
+author: "植北　ひとし"
 date: "20 de novembro de 2018"
 output:
   prettydoc::html_pretty:
@@ -12,26 +12,20 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Tabela comparativa entre os tempos verbais
-
-<center>
+## Tabela comparativa <small>Tempos Verbais e exemplos</small>
 
 ||い-adj|な-adj|
 |:-------------:|:----------------------------------:|:--------------------------------:|
 |Exemplos|ひろい<br>せまい|にぎやか<br>しずか<br>しんせつ|
 |Forma Formal|さむいです。<br>さむくありません。<br>さむかったです。<br>さむくありませんでした。|きれいです。<br>きれいではありません。<br>きれいでした。<br>きれいではありませんでした。|
 |Forma Informal|さむい<br>さむくない<br>さむかった<br>さむくなかった|きれいだ<br>きれいじゃない<br>きれいだった<br>きれいじゃなかった|
-|S|**い-adj + S**<br>おいし`い`　ジュース<br>さむ`い`　<ruby>日<rt>ひ</rt></ruby><br>むずかし`い`　かんじ|**な-adj + S**<br>きれい`な`　へや<br>しんせつ`な`　人<br>にぎやか`な`　あきまつり|
-|なる|**い-adj + なる**<br><br><br><br>|**な-adj + なる**<br><br><br><br>|
-|V|**い-adj + V**<br><br><br><br>|**な-adj + V**<br><br><br><br>|
-|S + V|**い-adj + S + V**<br><br><br><br>|**な-adj + S + V**<br><br><br><br>|
-|S で + V|**い-adj + S で + V**<br><br><br><br>|**な-adj + S で + V**<br><br><br><br>|
-|い/な-adj|**い-adj + い/な-adj**<br><br><br><br>|**な-adj + い/な-adj**<br><br><br><br>|
+|S|**い-adj + S**<br>おいし`い`　ジュース<br>さむ`い`　<ruby>日<rt>ひ</rt></ruby><br>むずかし`い`　かんじ|**な-adj + S**<br>きれい`な`　へや<br>しんせつ`な`　<ruby>人<rt>ひと</rt></ruby><br>にぎやか`な`　あきまつり|
+|なる|**い-adj + なる**<br><ruby>大<rt>おお</rt></ruby>き`く`　なります<br><ruby>高<rt>たか</rt></ruby>`く`　なりました<br>くら`く`　なりました|**な-adj + なる**<br>きれい`に`　なりました<br>べんり`に`　なりました<br>じょうず`に`　なった|
+|V|**い-adj + V**<br>ちいさ`く`　<ruby>書<rt>か</rt></ruby>きます<br><ruby>大<rt>おお</rt></ruby>き`く`　<ruby>切<rt>き</rt></ruby>ります<br><ruby>強<rt>つよ</rt></ruby>`く`　おします|**な-adj + V**<br>きれい`に`　かきます<br>じょうず`に`　うたいますね<br>しずか`に`　して　ください。|
+|S + V|**い-adj + Sで + V**<br><ruby>大<rt>おお</rt></ruby>きい　<ruby>声<rt>こえ</rt></ruby>`で`　<ruby>言<rt>い</rt></ruby>ってください<br><ruby>小<rt>ちい</rt></ruby>さい　<ruby>声<rt>こえ</rt></ruby>`で`　<ruby>言<rt>い</rt></ruby>ってください|**な-adj + Sで + V**<br>きれいな　<ruby>声<rt>こえ</rt></ruby>`で`　うたいます。<br>きれいな　<ruby>声<rt>こえ</rt></ruby>`で`　はなします。|
+|い/な-adj|**い-adj + い/な-adj**<br>ケーキは　あまいです。おいしいです。<br>ケーキは　あま`くて`、おいしいです。<br><ruby>家<rt>いえ</rt></ruby>　えきに　ちかいです。べんりです。<br><ruby>家<rt>いえ</rt></ruby>　えきに　ちか`くて`　べんりです。|**な-adj + い/な-adj**<br>アナさんは　きれいです。やさしいです。<br>アナさんは　きれい`で`、やさしいです。<br>あの　こえうんは　しずかです。きれいです。<br>あの　こえうんは　しずか`で`、きれいです。|
 
 
 
-
-
-
-
-</center>
+* あなたの学校は　どんな　学校ですか。
+* あなたのお母さん　どんな　お母さんですか。
