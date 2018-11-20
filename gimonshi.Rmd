@@ -1,0 +1,36 @@
+---
+title: "<ruby>疑<rt>ぎ</rt>問<rt>もん</rt>詞<rt>し</rt></ruby>"
+author: "植北　ひとし"
+date: "20 de novembro de 2018"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    highlight: github
+    include:
+      in_header: header.html
+      after_body: footer.html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Tabela dos Pronomes Interrogativos
+
+Tabela retirada do livro Try - Página 23.
+
+|<ruby>日<rt>に</rt>本<rt>ほん</rt>語<rt>ご</rt></ruby>|ポルトガル語|Exemplos|
+|:-:|:-:|:-:|
+|だれ<br>どなた|Quem?|だれ ですか。<br>ミラーさんは　どなたですか。|
+|どこ<br>どちら|Onde?|どこに　すんでいますか。|
+|なに<br>なん|O que?|<ruby>何<rt>なに</rt></ruby>を　たべますか。<br>デパートは　なんさい　ですか。|
+|どうして<br>なぜ|Por que?||
+|どれ|Qual?||
+|どの+めいし|Qual + substantivo?||
+|どちら<br>どっち|Qual deles?||
+|どう<br>いかが|Como está?||
+|どんな+めいし|Que tipo de?||
+|いつ|Quando?||
+|なんで|Por que?||
+|どうやって|Como?||
+|どのくらい<br>どれくらい|Quanto?||

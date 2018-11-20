@@ -6,6 +6,9 @@ output:
   prettydoc::html_pretty:
     theme: architect
     highlight: github
+    include:
+      in_header: header.html
+      after_body: footer.html
 ---
 
 ```{r setup, include=FALSE}
