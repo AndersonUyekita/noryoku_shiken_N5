@@ -20,13 +20,13 @@ knitr::opts_chunk$set(echo = TRUE)
 |:-------------:|:----------------------------------:|:--------------------------------:|
 |Exemplos|ひろい<br>せまい|にぎやか<br>しずか<br>しんせつ|
 |Forma Formal|さむいです。<br>さむくありません。<br>さむかったです。<br>さむくありませんでした。|きれいです。<br>きれいではありません。<br>きれいでした。<br>きれいではありませんでした。|
-|Forma Informal|<br><br><br><br>|<br><br><br><br>|
-|い-adj + S|<br><br><br><br>|<br><br><br><br>|
-|い-adj + なる|<br><br><br><br>|<br><br><br><br>|
-|い-adj + V|<br><br><br><br>|<br><br><br><br>|
-|い-adj + S + V|<br><br><br><br>|<br><br><br><br>|
-|い-adj + S で + V|<br><br><br><br>|<br><br><br><br>|
-|い-adj + い/な-adj|<br><br><br><br>|<br><br><br><br>|
+|Forma Informal|さむい<br>さむくない<br>さむかった<br>さむくなかった|きれいだ<br>きれいじゃない<br>きれいだった<br>きれいじゃなかった|
+|S|**い-adj + S**<br>おいし`い`　ジュース<br>さむ`い`　<ruby>日<rt>ひ</rt></ruby><br>むずかし`い`　かんじ|**な-adj + S**<br>きれい`な`　へや<br>しんせつ`な`　人<br>にぎやか`な`　あきまつり|
+|なる|**い-adj + なる**<br><br><br><br>|**な-adj + なる**<br><br><br><br>|
+|V|**い-adj + V**<br><br><br><br>|**な-adj + V**<br><br><br><br>|
+|S + V|**い-adj + S + V**<br><br><br><br>|**な-adj + S + V**<br><br><br><br>|
+|S で + V|**い-adj + S で + V**<br><br><br><br>|**な-adj + S で + V**<br><br><br><br>|
+|い/な-adj|**い-adj + い/な-adj**<br><br><br><br>|**な-adj + い/な-adj**<br><br><br><br>|
 
 
 
