@@ -35,8 +35,14 @@ d. <div class="alert alert-dark" role="alert">Dúvida</div>
 
 1. 
 <div><div class="alert alert-primary" role="alert">
-わたしは　あたらしい　じてんしゃ　（が）　ほしいです。  
+わたしは　あたらしい　じてんしゃ（が）　ほしいです。  
 へ　　に　　が　　で  
+</div><div class="alert alert-info" role="alert">
+Eu quero/desejo uma bicicleta nova.  
+</div><div class="alert alert-warning" role="alert">
+As frases com ほしいです são com a partícula `が`.  
+N`が`　ほしいです  
+Try - Página 40 - Item 10
 </div></div>
 
 2. 
@@ -47,144 +53,169 @@ d. <div class="alert alert-dark" role="alert">Dúvida</div>
 
 3. 
 <div><div class="alert alert-primary" role="alert">
-きのう　おとうとは　びょうき　（で）　学校を　やすみました。  
+きのう　おとうとは　びょうき（で）　学校を　やすみました。  
 が　　　に　　　で　　　と  
+</div><div class="alert alert-info" role="alert">
+Ontem minha irmã mais nova estava doente então não foi para a escola.  
+</div><div class="alert alert-warning" role="alert">
+A estrutura da frase é:  
+`Motivo`で + Verbo  
 </div></div>
-
 
 4. 
 <div><div class="alert alert-primary" role="alert">
-わたしは　先生せんせい（と）　３０ぷん　はなしました。  
+わたしは　<ruby>先<rt>せん</rt>生<rt>せい</rt></ruby>（と）　３０ぷん　はなしました。  
 と　　　を　　　へ　　　の  
+</div><div class="alert alert-info" role="alert">
+Conversei com a professa por 30 minutos.  
 </div></div>
 
 5. 
 <div><div class="alert alert-primary" role="alert">
 だれ（か）　てつだってください。  
 に　　　か　　　を　　　が  
+</div><div class="alert alert-info" role="alert">
+Por favor, ajude alguém.    
+</div><div class="alert alert-warning" role="alert">
+<ruby>手<rt>て</rt>伝<rt>つだ</rt>い</ruby> = Ajudar  
+(Pronome Interrogativo)か + V-`て` ou V-`で` + ください  
 </div></div>
-
 
 6. 
 <div><div class="alert alert-primary" role="alert">
 マリオさんは　テニスは　しますが　サッカー（は）　しません。  
 は　　と　　が　　も  
+</div><div class="alert alert-info" role="alert">
+O senhor Mário joga tenis, mas não joga futebol.  
+</div><div class="alert alert-warning" role="alert">
+O `が` possui significado de `mas` e une duas orações (cada qual com o seu tópico principal).  
 </div></div>
 
 7. 
 <div><div class="alert alert-primary" role="alert">
-<ruby>花<rt>はな</rt></ruby>の　しゃしんを　10まい　（ぐらい）　とりました。
-が　　　を　　　など　　　ぐらい
+<ruby>花<rt>はな</rt></ruby>の　しゃしんを　10まい　（ぐらい）　とりました。  
+が　　　を　　　など　　　ぐらい  
+</div><div class="alert alert-info" role="alert">
+Tirei mais ou menos 10 fotos de flores.  
 </div></div>
 
 8. 
 <div><div class="alert alert-primary" role="alert">
-日曜日に　そうじ　（や）　せんたくをします。
-を　　　や　　　も　　　で
+日曜日に　そうじ（や）　せんたくを します。  
+を　　　や　　　も　　　で  
+</div><div class="alert alert-info" role="alert">
+No domingo farei limpeza e lavarei roupa.  
+</div><div class="alert alert-warning" role="alert">
+Vocabulário: せんたく = Lavar roupa.  
+`N1`や`N2`  
+O uso do `や` é para mostrar alguns itens que serão feitos (somente os mais relevantes) e normalmente é usado com o `など` (que é o nosso etc.). Já o `と` enumera todos os itens.
 </div></div>
 
 9. 
 <div><div class="alert alert-primary" role="alert">
+パーティーは　いつ（が）　いいですか。  
+が　　　に　　　を　　　と  
+</div><div class="alert alert-info" role="alert">
 
-
+</div><div class="alert alert-warning" role="alert">
+A construção de uma frase para pedir uma sugestão
 </div></div>
 
 10. 
 <div><div class="alert alert-primary" role="alert">
-
-
-</div></div>
-
+えきの　ちかく（の）　みぜで　この<ruby>本<rt>ほん</rt></ruby>を　かいました。  
+で　　　に　　　を　　　の  
+</div></div> 
 
 11. 
 <div><div class="alert alert-primary" role="alert">
-
-
+一人　（だけ）　<ruby>早<rt>はや</rt></ruby>く　かえりました。  
+しか　　　だけ　　　から　　　まで  
 </div></div>
 
 12. 
 <div><div class="alert alert-primary" role="alert">
-
-
+あそこで　とり（が）　ないていますよ。  
+を　　　に　　　が　　　の  
 </div></div>
 
 13. 
 <div><div class="alert alert-primary" role="alert">
-
-
+この　りょうりは　ぎゅうにく（か）　ぶたにくを　つかいます。  
+が　　　か　　　　も　　　で  
 </div></div>
 
 14. 
 <div><div class="alert alert-primary" role="alert">
-
-
+この　りょうりは　ぎゅうにくも　ぶたにく　（　　　　　）　つかいません。  
+が　　　か　　　も　　　で  
 </div></div>
 
 
 15. 
 <div><div class="alert alert-primary" role="alert">
-
-
+カルロスくん　（　　　）　来る日は　土曜日。  
+を　　　へ　　　で　　　の  
 </div></div>
 
 16. 
 <div><div class="alert alert-primary" role="alert">
-
-
+カルロスくん　（　　　）　来る日は　土曜日。  
+を　　　へ　　　で　　　が  
 </div></div>
 
 17. 
 <div><div class="alert alert-primary" role="alert">
-
-
+あの　けいたいは　だれ　（　　　）　ですか。  
+を　　　へ　　　で　　　の  
 </div></div>
 
 18. 
 <div><div class="alert alert-primary" role="alert">
-
-
+じゅうぎゅうは　なんじ　（　　　）　ですか。  
+ぐらい　　　から　　まで　　　に  
 </div></div>
 
 
 19. 
 <div><div class="alert alert-primary" role="alert">
-
-
+おなかが　すきましたね。　なに　（　　　）　<ruby>食<rt>た</rt></ruby>べませんか。  
+が　　　か　　　も　　　で  
 </div></div>
 
 20. 
 <div><div class="alert alert-primary" role="alert">
-
-
+ホットドッグと　ハンバーガーと　どちら　（　　　）　いいですか。  
+へ　　　に　　　が　　　で  
 </div></div>
 
 21. 
 <div><div class="alert alert-primary" role="alert">
-
-
+あした　バス　（　　　）　サンパウロへ　いきます。  
+を　　　へ　　　で　　　に  
 </div></div>
 
 22. 
 <div><div class="alert alert-primary" role="alert">
-
-
+<ruby>早<rt>はや</rt></ruby>く　バス　（　　　）　のって　ください。  
+を　　　へ　　　で　　　に  
 </div></div>
 
 
 23. 
 <div><div class="alert alert-primary" role="alert">
-
-
+わたしは　まいあさ　８じ　（　　）　おきます。  
+とき　　　ごろ　　　など　　　ぐらい  
 </div></div>
 
 24. 
 <div><div class="alert alert-primary" role="alert">
-
-
+わたしは　まいあさ　８じかん　（　　　）　ねます。  
+とき　　　ごろ　　　など　　　ぐらい  
 </div></div>
 
 25. 
 <div><div class="alert alert-primary" role="alert">
-
-
-</div></div>
+あした　いっしょに　ショッピングセンター　（　　　）　いきませんか。  
+へ　　　で　　　と　　　を  
+</div></div>  
