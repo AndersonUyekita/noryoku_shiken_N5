@@ -1,5 +1,5 @@
 ---
-title: "じょし"
+title: "じょし 1"
 author: "植北　ひとし"
 date: "20 de novembro de 2018"
 output:
@@ -32,3 +32,159 @@ c. <div class="alert alert-warning" role="alert">Explicação da resposta</div>
 d. <div class="alert alert-dark" role="alert">Dúvida</div>
 
 ### Respostas
+
+1. 
+<div><div class="alert alert-primary" role="alert">
+わたしは　あたらしい　じてんしゃ　（が）　ほしいです。  
+へ　　に　　が　　で  
+</div></div>
+
+2. 
+<div><div class="alert alert-primary" role="alert">
+えいがは　なんじ　（に）　おわりますか。  
+くらい　　　から　　　まで　　　に  
+</div></div>
+
+3. 
+<div><div class="alert alert-primary" role="alert">
+きのう　おとうとは　びょうき　（で）　学校を　やすみました。  
+が　　　に　　　で　　　と  
+</div></div>
+
+
+4. 
+<div><div class="alert alert-primary" role="alert">
+わたしは　先生せんせい（と）　３０ぷん　はなしました。  
+と　　　を　　　へ　　　の  
+</div></div>
+
+5. 
+<div><div class="alert alert-primary" role="alert">
+だれ（か）　てつだってください。  
+に　　　か　　　を　　　が  
+</div></div>
+
+
+6. 
+<div><div class="alert alert-primary" role="alert">
+マリオさんは　テニスは　しますが　サッカー（は）　しません。  
+は　　と　　が　　も  
+</div></div>
+
+7. 
+<div><div class="alert alert-primary" role="alert">
+<ruby>花<rt>はな</rt></ruby>の　しゃしんを　10まい　（ぐらい）　とりました。
+が　　　を　　　など　　　ぐらい
+</div></div>
+
+8. 
+<div><div class="alert alert-primary" role="alert">
+日曜日に　そうじ　（や）　せんたくをします。
+を　　　や　　　も　　　で
+</div></div>
+
+9. 
+<div><div class="alert alert-primary" role="alert">
+
+
+</div></div>
+
+10. 
+<div><div class="alert alert-primary" role="alert">
+
+
+</div></div>
+
+
+11. 
+<div><div class="alert alert-primary" role="alert">
+
+
+</div></div>
+
+12. 
+<div><div class="alert alert-primary" role="alert">
+
+
+</div></div>
+
+13. 
+<div><div class="alert alert-primary" role="alert">
+
+
+</div></div>
+
+14. 
+<div><div class="alert alert-primary" role="alert">
+
+
+</div></div>
+
+
+15. 
+<div><div class="alert alert-primary" role="alert">
+
+
+</div></div>
+
+16. 
+<div><div class="alert alert-primary" role="alert">
+
+
+</div></div>
+
+17. 
+<div><div class="alert alert-primary" role="alert">
+
+
+</div></div>
+
+18. 
+<div><div class="alert alert-primary" role="alert">
+
+
+</div></div>
+
+
+19. 
+<div><div class="alert alert-primary" role="alert">
+
+
+</div></div>
+
+20. 
+<div><div class="alert alert-primary" role="alert">
+
+
+</div></div>
+
+21. 
+<div><div class="alert alert-primary" role="alert">
+
+
+</div></div>
+
+22. 
+<div><div class="alert alert-primary" role="alert">
+
+
+</div></div>
+
+
+23. 
+<div><div class="alert alert-primary" role="alert">
+
+
+</div></div>
+
+24. 
+<div><div class="alert alert-primary" role="alert">
+
+
+</div></div>
+
+25. 
+<div><div class="alert alert-primary" role="alert">
+
+
+</div></div>
