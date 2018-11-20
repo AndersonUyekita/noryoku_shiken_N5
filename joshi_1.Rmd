@@ -1,7 +1,7 @@
 ---
-title: "N5 - Noryoku Shiken"
+title: "じょし"
 author: "植北　ひとし"
-date: "19 de novembro de 2018"
+date: "20 de novembro de 2018"
 output:
   prettydoc::html_pretty:
     theme: architect
@@ -19,18 +19,16 @@ knitr::opts_chunk$set(echo = TRUE)
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
 </head>
 
-## N5
+## じょし 1
 
-### <ruby>問<rt>もん</rt>題<rt>だい</rt></ruby>と　<ruby>復<rt>ふく</rt>習<rt>しゅう</rt></ruby>
+### Legenda
 
-* <a href="https://andersonuyekita.github.io/noryoku_shiken_N5/renshuu.html">N5 Adjetivo Verbo 1</a>
-* <a href="https://andersonuyekita.github.io/noryoku_shiken_N5/fukushuu.html">N5 <ruby>問<rt>もん</rt>題<rt>だい</rt></ruby> Adverbio Pronome</a>
+a. <div class="alert alert-primary" role="alert">Pergunta</div>
 
+b. <div class="alert alert-info" role="alert">Tradução</div>
 
+c. <div class="alert alert-warning" role="alert">Explicação da resposta</div>
 
+d. <div class="alert alert-dark" role="alert">Dúvida</div>
 
-
-
-## クラスの　ノート　
-
-* <a href="https://andersonuyekita.github.io/noryoku_shiken_N5/conjugacao.html">Conjugação い/な-adj</a>
+### Respostas

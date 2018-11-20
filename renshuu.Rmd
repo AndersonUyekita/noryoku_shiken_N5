@@ -31,7 +31,6 @@ c. <div class="alert alert-warning" role="alert">Explicação da resposta</div>
 
 d. <div class="alert alert-dark" role="alert">Dúvida</div>
 
-
 ### Respostas
 
 1. 
@@ -58,13 +57,17 @@ O parque é largo e bonito/limpo.
 
 3. 
 <div><div class="alert alert-primary" role="alert">
-ここに　かばんを　（おく）ないで　ください。  
+ここに　かばんを　（おか）ないで　ください。  
 おか　　　　　おき　　　　おく　　　おけ  
 </div><div class="alert alert-info" role="alert">
 Por favor, não deixe a bolsa aqui.  
 </div><div class="alert alert-warning" role="alert">
 Vocabulário: Não confundir <ruby>置<rt>お</rt></ruby>く (colocar) com <ruby>起<rt>お</rt></ruby>きる (acordar).  
-Detalhes da gramática: Try - página 84
+Usa-se essa construção quando se faz um pedido/ordem para que uma pessoa não faça determinada coisa. Deve-se usar a forma V-`ない` para esta construção de frase com a adição do `で` no final.  
+Try - Página 84 - Item 32  
+A forma V-`ない` possui uma particularidade:  
+お`く`  
+お`か`ない  
 </div></div>
 
 4. 

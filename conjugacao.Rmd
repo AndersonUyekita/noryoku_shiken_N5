@@ -1,0 +1,37 @@
+---
+title: "Conjugação"
+author: "Anderson Uyekita"
+date: "20 de novembro de 2018"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    highlight: github
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Tabela comparativa entre os tempos verbais
+
+<center>
+
+||い-adj|な-adj|
+|:-------------:|:----------------------------------:|:--------------------------------:|
+|Exemplos|ひろい<br>せまい|にぎやか<br>しずか<br>しんせつ|
+|Forma Formal|さむいです。<br>さむくありません。<br>さむかったです。<br>さむくありませんでした。|きれいです。<br>きれいではありません。<br>きれいでした。<br>きれいではありませんでした。|
+|Forma Informal|<br><br><br><br>|<br><br><br><br>|
+|い-adj + S|<br><br><br><br>|<br><br><br><br>|
+|い-adj + なる|<br><br><br><br>|<br><br><br><br>|
+|い-adj + V|<br><br><br><br>|<br><br><br><br>|
+|い-adj + S + V|<br><br><br><br>|<br><br><br><br>|
+|い-adj + S で + V|<br><br><br><br>|<br><br><br><br>|
+|い-adj + い/な-adj|<br><br><br><br>|<br><br><br><br>|
+
+
+
+
+
+
+
+</center>
