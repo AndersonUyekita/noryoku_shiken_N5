@@ -492,7 +492,7 @@ MNラーメン、いっしょに（たべに）行きませんか。
 Quer ir para o MN Ramen para comer?  
 </div><div class="alert alert-warning" role="alert">
 Quando falamos sobre ir para um lugar (usando verbos いきます, きます ou かえります) para fazer algo (たべる).  
-Usamos a forma V-masu e substituímos o masu pelo ni.
+Usamos a forma V-ます e substituímos o ます pelo に.
 V + `に` + いきます  
 たべ + `に` + いきます  
 Try - Página 71 - Item 27  

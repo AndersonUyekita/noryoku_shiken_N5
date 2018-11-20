@@ -39,8 +39,8 @@ d. <div class="alert alert-dark" role="alert">Dúvida</div>
 </div><div class="alert alert-info" role="alert">
 Por que ontem voltou (você) cedo?  
 </div><div class="alert alert-warning" role="alert">
-Vocabulário: <ruby>帰<rt>かえ</rt></ruby>る = voltar
-<ruby>早<rt>はや</rt></ruby>く = cedos
+Vocabulário: <ruby>帰<rt>かえ</rt></ruby>る = voltar  
+<ruby>早<rt>はや</rt></ruby>く = cedo  
 </div></div>
 
 2. 
@@ -61,163 +61,160 @@ O verbo deve estar na forma negativa e no passado, pois ainda não devolveu.
 いっぱいが　　　いっぱい　　　いっぱいか　　　いっぱいを  
 </div><div class="alert alert-info" role="alert">
 Expressão: Gostaria de encher a sua xícara de café?  
-
-
 </div></div>
 
 4. 
 <div><div class="alert alert-primary" role="alert">
-まいにち　（どれ）ぐらい　ねますか。
-　　　どんな　　　どう　　　　いつ　　　どれ
+まいにち　（どれ）ぐらい　ねますか。  
+どんな　　　どう　　　　いつ　　　どれ  
 </div></div>
 
 5. 
 <div><div class="alert alert-primary" role="alert">
-みんなが　たくさん　食べましたから　（もう）ケーキはありません。
-もう　　　　まだ　　　　よく　　　　とても
+みんなが　たくさん　食べましたから　（もう）ケーキはありません。  
+もう　　　　まだ　　　　よく　　　　とても  
 </div><div class="alert alert-info" role="alert">
-Como todos comeram muito, já não tem bolo.  
+Como todos comeram muito, já não tem bolo.    
 </div></div>
 
 6. 
 <div><div class="alert alert-primary" role="alert">
-あの山には　１年（じゅう）雪が　あります。
-など　　　　とき　　　じゅう　　　　ごろ
+あの山には　１年（じゅう）雪が　あります。  
+など　　　　とき　　　じゅう　　　　ごろ  
 </div><div class="alert alert-info" role="alert">
 Naquela montanha tem neve o ano todo.  
 </div><div class="alert alert-warning" role="alert">
 Vocabulário: <ruby>雪<rt>ゆき</rt></ruby> = Neve  
 <ruby>年<rt>ねん</rt>中<rt>じゅう</rt></ruby> = ano inteiro  
-じゅう
 </div></div>
 
 7. 
 <div><div class="alert alert-primary" role="alert">
-学校を休みました。あたまが　（いたかったからです）。
-いたいでした　　　いたかったからです　　わるかったからです　　わるいです
+学校を休みました。あたまが　（いたかったからです）。  
+いたいでした　　　いたかったからです　　わるかったからです　　わるいです  
 </div><div class="alert alert-info" role="alert">
-Tive folga da escola. A minha cabeça não está doendo.
+Tive folga da escola. A minha cabeça não está doendo.  
 </div></div>
 
 8. 
 <div><div class="alert alert-primary" role="alert">
-（その）へやは　いもうとの　へやです。
-それ　　　　　その　　　　そこ　　　そちら
+（その）へやは　いもうとの　へやです。  
+それ　　　　　その　　　　そこ　　　そちら  
 </div><div class="alert alert-info" role="alert">
-Aquele quarto é do meu irmã mais nova.  
+Aquele quarto é do meu irmã mais nova.   
 </div></div>
 
 9. 
 <div><div class="alert alert-primary" role="alert">
-まだ　ゆうびんきょくは　（あきます）よ。早く　行きましょう。
-あきません　　　あきました　　あいています　　　あきます
+まだ　ゆうびんきょくは　（あきます）よ。早く　行きましょう。  
+あきません　　　あきました　　あいています　　　あきます  
 </div><div class="alert alert-info" role="alert">
-O correio ainda está aberto. Vamos logo.
+O correio ainda está aberto. Vamos logo.  
 </div></div>
 
 10. 
 <div><div class="alert alert-primary" role="alert">
-（だれ）うんどうを　して いますか。
-どれ　　　　　だれ　　　いかが　　　なにか
+（だれ）うんどうを　して いますか。  
+どれ　　　　　だれ　　　いかが　　　なにか  
 </div><div class="alert alert-info" role="alert">
-Quem está fazendo exercício físicos?
+Quem está fazendo exercício físicos?  
 </div></div>
 
 11. 
 <div><div class="alert alert-primary" role="alert">
-つくえの上に　（本が２さつ）あります。
-　　　本が２さつ　　本が２さつが　　２さつが本　　２さつが本が
+つくえの上に　（本が２さつ）あります。  
+本が２さつ　　本が２さつが　　２さつが本　　２さつが本が  
 </div><div class="alert alert-info" role="alert">
-Sobre a mesa há dois livros.  
+Sobre a mesa há dois livros.    
 </div><div class="alert alert-warning" role="alert">
-さつ é o "contador" de livros.  
+さつ é o "contador" de livros.   
 </div></div>
 
 12. 
 <div><div class="alert alert-primary" role="alert">
-12．すみませんはが　さとうを　とって（　　　　　　　　）。
-　　　くださいですか　　くださいでしょうか　　くださいませんか　くださいか
+すみませんはが　さとうを　とって（くださいませんか）。  
+くださいですか　　くださいでしょうか　　くださいませんか　くださいか  
 </div></div>
 
 13. 
 <div><div class="alert alert-primary" role="alert">
-わたしは　（まだ）おひるごはんを　食べていません。おなかが　すいた。
-　　　　まだ　　　　とても　　　もう　　　いかが　　
+わたしは　（まだ）おひるごはんを　食べていません。おなかが　すいた。  
+まだ　　　　とても　　　もう　　　いかが　　  
 </div><div class="alert alert-info" role="alert">
-Eu ainda não comi. Estou com fome.
+Eu ainda não comi. Estou com fome.  
 </div></div>
 
 14. 
 <div><div class="alert alert-primary" role="alert">
-きょうは　（あまり） さむくない。
-とても　　　あまり　　　たくさん　　いっぱい
+きょうは　（あまり） さむくない。  
+とても　　　あまり　　　たくさん　　いっぱい  
 </div><div class="alert alert-info" role="alert">
-Hoje não está muito frio.
+Hoje não está muito frio.  
 </div><div class="alert alert-warning" role="alert">
-O adjetivo está conjugado na forma negativa, não outra possibilidade além do あまり.  
+O adjetivo está conjugado na forma negativa, não outra possibilidade além do あまり.    
 </div></div>
 
 15. 
 <div><div class="alert alert-primary" role="alert">
-先生、よく　きこえませんでした。（　　　　　　　　　　　）言ってください。
-もう　　　　もういちど　　　　いちど　　　　まだ
+先生、よく　きこえませんでした。（もういちど）言ってください。  
+もう　　　　もういちど　　　　いちど　　　　まだ  
 </div></div>
 
 16. 
 <div><div class="alert alert-primary" role="alert">
-すしが　すきなので　わたしは　（よく）すしやに　行きます。
-たくさん　　　　よく　　　　とても　　おおぜい
-</div></div>
+すしが　すきなので　わたしは　（よく）すしやに　行きます。  
+たくさん　　　　よく　　　　とても　　おおぜい  
+</div></div>  
 
 17. 
 <div><div class="alert alert-primary" role="alert">
-フランス語は　（ぜんぜん）わかりません。
-ぜんぜん　　　とても　　　いつも　　　たいへん
-</div></div>
+フランス語は　（ぜんぜん）わかりません。  
+ぜんぜん　　　とても　　　いつも　　　たいへん  
+</div></div> 
 
 18. 
 <div><div class="alert alert-primary" role="alert">
-（すこし）しずかに　してください。赤ちゃんが　ねていますから。
-すぐに　　　　よく　　　すこし　　　まっすぐ
+（すこし）しずかに　してください。赤ちゃんが　ねていますから。  
+すぐに　　　　よく　　　すこし　　　まっすぐ  
 </div></div>
 
 19. 
 <div><div class="alert alert-primary" role="alert">
-のむら先生は　（どんな）先生ですか。
-どう　　　　　どんな　　　　どれ　　　どうして
+のむら先生は　（どんな）先生ですか。  
+どう　　　　　どんな　　　　どれ　　　どうして  
 </div></div>
 
 20. 
 <div><div class="alert alert-primary" role="alert">
-きのうは　（どうして）学校を休みましたか。
-どう　　　　　どんな　　　　どれ　　　どうして
+きのうは　（どうして）学校を休みましたか。  
+どう　　　　　どんな　　　　どれ　　　どうして  
 </div></div>
 
 21. 
 <div><div class="alert alert-primary" role="alert">
-えきのまえに　（おおぜい）人が　います。
-とても　　　たいへん　　　おおぜい　　よく
-</div></div>
+えきのまえに　（おおぜい）人が　います。  
+とても　　　たいへん　　　おおぜい　　よく  
+</div></div> 
 
 22. 
 <div><div class="alert alert-primary" role="alert">
-（たいへん）ですね。てつだいましょうか。
-とても　　　たいへん　　　おおぜい　　よく
+（たいへん）ですね。てつだいましょうか。  
+とても　　　たいへん　　　おおぜい　　よく  
 </div></div>
 
 23. 
 <div><div class="alert alert-primary" role="alert">
-テストをしていますから、（しずかに）して　ください。
-しずかに　　　しずかだ　　　しずか　　　しすかで
+テストをしていますから、（しずかに）して　ください。  
+しずかに　　　しずかだ　　　しずか　　　しすかで  
 </div></div>
 
 24. 
 <div><div class="alert alert-primary" role="alert">
-（どれ）が　あなたの車ですか。
-どんな　　　どう　　　　いつ　　　どれ
+（どれ）が　あなたの車ですか。  
+どんな　　　どう　　　　いつ　　　どれ  
 </div></div>
 
 25. 
 <div><div class="alert alert-primary" role="alert">
-犬と　ねこと　（どこ）が　すきですか。
-どれ　　　どこ　　どちら　　どんな
+犬と　ねこと　（どこ）が　すきですか。  
+どれ　　　どこ　　どちら　　どんな  
