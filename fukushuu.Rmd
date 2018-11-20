@@ -3,8 +3,9 @@ title: "ふくしゅう"
 author: "植北　ひとし"
 date: "20 de novembro de 2018"
 output:
-  html_document:
-    theme: flatly
+  prettydoc::html_pretty:
+    theme: architect
+    highlight: github
 ---
 
 ```{r setup, include=FALSE}
