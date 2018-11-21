@@ -15,13 +15,6 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<head>
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
-</head>
-
 ## じょし 1
 
 ### Legenda
@@ -119,20 +112,24 @@ O uso do `や` é para mostrar alguns itens que serão feitos (somente os mais r
 パーティーは　いつ（が）　いいですか。  
 が　　　に　　　を　　　と  
 </div><div class="alert alert-info" role="alert">
-
+Quando tem uma festa boa?
 </div><div class="alert alert-warning" role="alert">
-A construção de uma frase para pedir uma sugestão
+`Pronome Interrogativo`が + いいですか
 </div></div>
 
 10. 
 <div><div class="alert alert-primary" role="alert">
 えきの　ちかく（の）　みぜで　この<ruby>本<rt>ほん</rt></ruby>を　かいました。  
 で　　　に　　　を　　　の  
+</div><div class="alert alert-info" role="alert">
+Comprei esse livro na loja perto da estação.  
 </div></div> 
 
 11. 
 <div><div class="alert alert-primary" role="alert">
 一人　（だけ）　<ruby>早<rt>はや</rt></ruby>く　かえりました。  
+</div><div class="alert alert-info" role="alert">
+Somente/apenas uma pessoa voltou cedo.  
 しか　　　だけ　　　から　　　まで  
 </div></div>
 
@@ -140,85 +137,144 @@ A construção de uma frase para pedir uma sugestão
 <div><div class="alert alert-primary" role="alert">
 あそこで　とり（が）　ないていますよ。  
 を　　　に　　　が　　　の  
+</div><div class="alert alert-info" role="alert">
+Ali os pássaros cantam.  
+</div><div class="alert alert-warning" role="alert">
+Vocabulário: ないています = cantar do passarinho
 </div></div>
 
 13. 
 <div><div class="alert alert-primary" role="alert">
 この　りょうりは　ぎゅうにく（か）　ぶたにくを　つかいます。  
 が　　　か　　　　も　　　で  
+</div><div class="alert alert-info" role="alert">
+Este prato usa carne bovina ou suína.
+</div><div class="alert alert-warning" role="alert">
+Neste caso `か` tem o significado de `ou`.
+Substantivo + `か` + Substantivo
 </div></div>
 
 14. 
 <div><div class="alert alert-primary" role="alert">
-この　りょうりは　ぎゅうにくも　ぶたにく　（　　　　　）　つかいません。  
+この　りょうりは　ぎゅうにくも　ぶたにく　（も）　つかいません。  
 が　　　か　　　も　　　で  
+</div><div class="alert alert-info" role="alert">
+Este prato não usa carne bovina e nem a carne suína. 
+</div><div class="alert alert-warning" role="alert">
+A construção dessa frase segue a estrutura `nem isso` e `nem aquilo`.  
+Substantivo + `も` + Substantivo `も`  
+ぎゅうにく`も` ぶたにく`も`  
 </div></div>
 
 
 15. 
 <div><div class="alert alert-primary" role="alert">
-カルロスくん　（　　　）　来る日は　土曜日。  
+カルロスくん（の）　来る日は　土曜日。  
 を　　　へ　　　で　　　の  
+</div><div class="alert alert-info" role="alert">
+O garoto Carlos 
+</div><div class="alert alert-warning" role="alert">
+Vocabulário = 来る日 = próximos dias (??? Confirmar)
+</div><div class="alert alert-dark" role="alert">
+Fiz por exclusão. Preciso de uma resposta mais elaborada!!
 </div></div>
 
 16. 
 <div><div class="alert alert-primary" role="alert">
-カルロスくん　（　　　）　来る日は　土曜日。  
+カルロスくん（が）　来る日は　土曜日。  
 を　　　へ　　　で　　　が  
+</div><div class="alert alert-dark" role="alert">
+Fiz por exclusão. Preciso de uma resposta mais elaborada!!
 </div></div>
 
 17. 
 <div><div class="alert alert-primary" role="alert">
-あの　けいたいは　だれ　（　　　）　ですか。  
+あの　けいたいは　だれ（の）　ですか。  
 を　　　へ　　　で　　　の  
+</div><div class="alert alert-info" role="alert">
+Aquele celular de quem é?  
+</div><div class="alert alert-warning" role="alert">
+Neste caso `の` dá o sentido de posse ao pronome interrogativo  `だれ`.
 </div></div>
 
 18. 
 <div><div class="alert alert-primary" role="alert">
-じゅうぎゅうは　なんじ　（　　　）　ですか。  
+じゅぎょうは　なんじ（から）　ですか。  
 ぐらい　　　から　　まで　　　に  
+</div><div class="alert alert-info" role="alert">
+A aula é a partir de que horas?  
+A aula é até que horas?  
+</div><div class="alert alert-warning" role="alert">
+Há duas respostas: `から` e `まで`.
 </div></div>
 
 
 19. 
 <div><div class="alert alert-primary" role="alert">
-おなかが　すきましたね。　なに　（　　　）　<ruby>食<rt>た</rt></ruby>べませんか。  
+おなかが　すきましたね。　なに（か）　<ruby>食<rt>た</rt></ruby>べませんか。  
 が　　　か　　　も　　　で  
+</div><div class="alert alert-info" role="alert">
+Estou com fome. Quer comer alguma coisa?
+</div><div class="alert alert-warning" role="alert">
+Quando não se tem certeza sobre a resposta da outra parte (você está sugerindo), usa-se essa construção.
 </div></div>
 
 20. 
 <div><div class="alert alert-primary" role="alert">
-ホットドッグと　ハンバーガーと　どちら　（　　　）　いいですか。  
+ホットドッグと　ハンバーガーと　どちら（が）　いいですか。  
 へ　　　に　　　が　　　で  
+</div><div class="alert alert-info" role="alert">
+Hot-dog ou hamburguer qual você prefere?  
+</div><div class="alert alert-warning" role="alert">
+A construção desta frase é rígida e sempre terá a mesma forma.  
+Substantivo + `と` + Substantivo + `と` + どちら`が`　`いいですか`。  
+Sempre será usado o `が`.
 </div></div>
 
 21. 
 <div><div class="alert alert-primary" role="alert">
-あした　バス　（　　　）　サンパウロへ　いきます。  
+あした　バス（で）　サンパウロへ　いきます。  
 を　　　へ　　　で　　　に  
+</div><div class="alert alert-info" role="alert">
+Amanhã irei de ônibus para São Paulo.  
+</div><div class="alert alert-warning" role="alert">
+Deve-se assinalar o `で` pois exprime o meio de locomoção.  
 </div></div>
 
 22. 
 <div><div class="alert alert-primary" role="alert">
-<ruby>早<rt>はや</rt></ruby>く　バス　（　　　）　のって　ください。  
+<ruby>早<rt>はや</rt></ruby>く　バス（に）　のって　ください。  
 を　　　へ　　　で　　　に  
+</div><div class="alert alert-info" role="alert">
+Entre rápido no ônibus.  
+</div><div class="alert alert-warning" role="alert">
+Lembre-se que のります e はいります exigem o `に`.  
 </div></div>
-
 
 23. 
 <div><div class="alert alert-primary" role="alert">
-わたしは　まいあさ　８じ　（　　）　おきます。  
+わたしは　まいあさ　８じ（ごろ）　おきます。  
 とき　　　ごろ　　　など　　　ぐらい  
+</div><div class="alert alert-info" role="alert">
+Eu acordo por volta das 8 horas.  
+</div><div class="alert alert-dark" role="alert">
+Preciso recordar!!
 </div></div>
 
 24. 
 <div><div class="alert alert-primary" role="alert">
-わたしは　まいあさ　８じかん　（　　　）　ねます。  
+わたしは　まいあさ　８じかん　（ぐらい）　ねます。  
 とき　　　ごろ　　　など　　　ぐらい  
+</div><div class="alert alert-info" role="alert">
+Eu acordo aproximadamente às 8 horas
+</div><div class="alert alert-dark" role="alert">
+Preciso recordar!!
 </div></div>
 
 25. 
 <div><div class="alert alert-primary" role="alert">
-あした　いっしょに　ショッピングセンター　（　　　）　いきませんか。  
+あした　いっしょに　ショッピングセンター（へ）　いきませんか。  
 へ　　　で　　　と　　　を  
+</div><div class="alert alert-info" role="alert">
+Amanhã vamos juntos ao Shopping Center?  
 </div></div>  
