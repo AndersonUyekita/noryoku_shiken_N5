@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * <a href="https://andersonuyekita.github.io/noryoku_shiken_N5/conjugacao.html">Conjugação い/な-adj e Exemplos</a>
 * <a href="https://andersonuyekita.github.io/noryoku_shiken_N5/gimonshi.html">Pronomes Interrogativos - <ruby>疑<rt>ぎ</rt>問<rt>もん</rt>詞<rt>し</rt></ruby></a>
-
+* <a href="https://andersonuyekita.github.io/noryoku_shiken_N5/nidewo.html">`に`, `で` e `を`</a>
 
 
 
@@ -49,12 +49,13 @@ knitr::opts_chunk$set(echo = TRUE)
 * Agregar as correções da Matsumoto Sensei.
 
 <div class="progress">
-<div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">N5 Pronomes Interrogativos - 60%</div></div>
+<div class="progress-bar" role="progressbar" style="width: 70%;" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">N5 Pronomes Interrogativos - 70%</div></div>
 
-* Agregar novos exemplos e corrigir com a 先生.
+* Agregar novos exemplos e corrigir com a 先生;
+* Inserir quadro da página 26.
 
 <div class="progress">
-<div class="progress-bar" role="progressbar" style="width: 50%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">N5 Joshi 1 - 50%</div></div>
+<div class="progress-bar" role="progressbar" style="width: 90%;" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">N5 Joshi 1 - 90%</div></div>
 
 * Falta registrar as respostas.
 

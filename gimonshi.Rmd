@@ -33,7 +33,14 @@ knitr::opts_chunk$set(echo = TRUE)
 |どうやって|Como?||
 |どのくらい<br>どれくらい|Quanto?|**P: **どのくらい　にほんごを　べんきょうしましたか。<br>**R: **一年くらい　べんきょうしました。|
 
+<img src="01-img/ano_sono_kono.svg" width="100%"/>
 
 
+## Indicação de proximidade
 
-
+||Perto do Falante<br>こ|Perto do Ouvinte<br>そ|Longe de Ambos<br>あ|Pergunta<br>ど|
+|:-:|:-:|:-:|:-:|:-:|
+|Objeto ou Coisa|これ|それ|あれ|どれ|
+|Objeto ou Coisa|この+めいし|その+めいし|あの+めいし|どの+めいし|
+|Lugar|ここ|そこ|あそこ|どこ|
+|Lugar ou Direção|こちら/こっち|そちら/そっち|あちら/あっち|どちら/どっちら|

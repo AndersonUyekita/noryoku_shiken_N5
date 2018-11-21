@@ -1,0 +1,40 @@
+---
+title: "に で を"
+author: "植北　ひとし"
+date: "20 de novembro de 2018"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    highlight: github
+    include:
+      in_header: header.html
+      after_body: footer.html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## に　で　を
+
+
+<p>A figura abaixo exemplica como devemos memorizar o uso das partículas `に`, `で` e `を` no que tange o meio de transporte.</p>
+
+<img src="01-img/car.svg" width="100%"/>
+
+## Exemplos
+
+### `に`
+
+* バスに　のりました。
+* くるまに　はいります。
+
+### `で`
+
+* バスで　ほんを　よみました。
+* くるまで　ゲームを　します。
+
+### `を` 
+
+* バスを　おります。
+* くるまを　でました。
