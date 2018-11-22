@@ -306,7 +306,7 @@ Quando vou para a escola passo pela Avenida.
 <div><div class="alert alert-primary" role="alert">
 モジで　バス（を・`に`・で）のります。  
 バスの中（を・に・`で`）ねます。  
-ＴＩＥＴＥで　バス（を・`に`・で）おります。  
+ＴＩＥＴＥで　バス（`を`・に・で）おります。  
 </div><div class="alert alert-info" role="alert">
 Subi no ônibus em Mogi.  
 Durmi dentro do ônibus.  
@@ -314,7 +314,7 @@ Tem ônibus no Tietê.
 </div><div class="alert alert-warning" role="alert">
 `に` + のります  
 `で`: Quando está dentro do ônibus e faz alguma ação (dormir, ler, conversar, etc.)  
-`に` + おります  
+`を` + おります  
 </div></div>
 
 30. 
