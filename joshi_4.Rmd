@@ -105,124 +105,223 @@ O que tipo de bebida gosta?
 
 8. 
 <div><div class="alert alert-primary" role="alert">
-つなみ（`が`・に・で・と）おおぜいの人が　なくなりました。
+つなみ（`が`・に・で・と）おおぜいの人が　なくなりました。  
+</div><div class="alert alert-info" role="alert">
+Muitas pessoas foram perdidas com o tsunami.  
+</div><div class="alert alert-dark" role="alert">
+先生, acho que a resposta é com a `で` que exprime o modo como elas morreram, mas como já tinha assinalado o `が` na primeira versão. Deixarei assim mesmo.
 </div></div>
 
 9. 
 <div><div class="alert alert-primary" role="alert">
-Ａ：いえに　だれ（は・に・`か`・の　）いますか。
-Ｂ：いいえ、だれ（は・と・が・`も`）いません。
+Ａ：いえに　だれ（は・に・`か`・の　）いますか。    
+Ｂ：いいえ、だれ（は・と・が・`も`）いません。    
+</div><div class="alert alert-info" role="alert">
+A: Alguém está na sua casa?  
+B: Não, não tem ninguém.  
+</div><div class="alert alert-warning" role="alert">
+`Pronome Interrogativo` + `か`  
+Paralelismo com a resposta negativa, então se deve escolher o `も`.  
 </div></div>
 
 10. 
 <div><div class="alert alert-primary" role="alert">
-モデル校の　そば（で・`に`・を・の）パンやが　あります。
+モデル校の　そば（で・`に`・を・の）パンやが　あります。    
+</div><div class="alert alert-info" role="alert">
+Perto da escola de idiomas Mogi tem uma padaria.  
+</div><div class="alert alert-warning" role="alert">
+`に` + あります  
+</div><div class="alert alert-dark" role="alert">
+先生, tem que confirmar essa resposta, por favor.
 </div></div>
 
 11. 
 <div><div class="alert alert-primary" role="alert">
-Ａ：どこで　パンを　かいますか。
-Ｂ：モデル校の　そば（で・に・を・`の`）パンやで　かいます。
+Ａ：どこで　パンを　かいますか。  
+Ｂ：モデル校の　そば（で・に・を・`の`）パンやで　かいます。  
+</div><div class="alert alert-info" role="alert">
+A: Onde você compra pão?  
+B: Eu compro na padaria perto da escola de idiomas Mogi.  
+</div><div class="alert alert-dark" role="alert">
+Chutei!! 
 </div></div>
 
 12. 
 <div><div class="alert alert-primary" role="alert">
-くらく　なりましたね。だれ（に・`か`・を・が）でんきを つけてください。
+くらく　なりましたね。だれ（に・`か`・を・が）でんきを つけてください。  
+</div><div class="alert alert-info" role="alert">
+Ficou escuro. Alguém poderia ligar as luzes?  
+</div><div class="alert alert-warning" role="alert">
+`Pronome Interrogativo` + `か`  
 </div></div>
 
 13. 
 <div><div class="alert alert-primary" role="alert">
-Ａ：おなかが　すきましたね。なに（が・か・`も`・で）食べませんか。
-Ｂ：いいですね。なに（が・`か`・も・で）たべたいですか。
+Ａ：おなかが　すきましたね。なに（が・か・`も`・で）食べませんか。  
+Ｂ：いいですね。なに（が・`か`・も・で）たべたいですか。  
+</div><div class="alert alert-info" role="alert">
+A: Estou com fome. Ainda não comi nada.  
+B: Boa idéia. O que você quer comer?  
+</div><div class="alert alert-warning" role="alert">
+A: Para concordar com o verbo `食べる` na forma negativa deve-se usar o `も`  
+B: `Pronome Interrogativo` + `か`  
 </div></div>
 
 14. 
 <div><div class="alert alert-primary" role="alert">
-Ａ：つかれましたね。どこか（が・か・`も`・で）やすみませんか。
-Ｂ：いいですね。あの　ベンチ（`に`・か・も・で）すわりましょう。
+Ａ：つかれましたね。どこか（が・か・`も`・で）やすみませんか。    
+Ｂ：いいですね。あの　ベンチ（`に`・か・も・で）すわりましょう。    
+</div><div class="alert alert-info" role="alert">
+A: Cansado né!? Não quer ir para algum lugar para descansar?  
+B: Boa idéia. Vamos sentar naquele banco.  
+</div><div class="alert alert-warning" role="alert">
+A: Uso do `も` para concordar com a forma negativa do verbo.  
+B: `に` + すわりましょう  
 </div></div>
 
 15. 
 <div><div class="alert alert-primary" role="alert">
-Ａ：犬と　ねこと　どちら（へ・`に`・が・で　）すきですか。
-Ｂ：どちら（に・か・も・で　）すきでは　ありません。
+Ａ：犬と　ねこと　どちら（へ・`に`・が・で　）すきですか。  
+Ｂ：どちら（に・か・`も`・で　）すきでは　ありません。  
+</div><div class="alert alert-info" role="alert">
+A: Onde aquele cachorro e gato vivem?  
+B: Não sei onde vivem.  
 </div></div>
 
 16. 
 <div><div class="alert alert-primary" role="alert">
-この　シャツ、だれ（`に`・か・を・が）もらいましたか。
+この　シャツ、だれ（`に`・か・を・が）もらいましたか。  
+</div><div class="alert alert-info" role="alert">
+Esta camisa, quem trouxe?  
+</div><div class="alert alert-warning" role="alert">
+`に` + もらいましたか  
 </div></div>
 
 17. 
 <div><div class="alert alert-primary" role="alert">
-この　シャツ、だれ（に・`か`・を・が）くれましたか。
+この　シャツ、だれ（に・`か`・を・が）くれましたか。  
+</div><div class="alert alert-info" role="alert">
+Esta camisa, quem deu?  
+</div><div class="alert alert-warning" role="alert">
+`Pronome Interrogativo` + `か`
 </div></div>
 
 18. 
 <div><div class="alert alert-primary" role="alert">
-だれ（`は`・に・も・と）えいがに　いきますか。
+だれ（`は`・に・も・と）えいがに　いきますか。  
+</div><div class="alert alert-info" role="alert">
+Tem alguém assistindo filme?  
 </div></div>
 
 19. 
 <div><div class="alert alert-primary" role="alert">
-そのはし（`は`・が・も・を）わたると、こうえんが　あります。
+そのはし（`は`・が・も・を）わたると、こうえんが　あります。  
+</div><div class="alert alert-info" role="alert">
+Depois desta ponte há um parque.  
 </div></div>
 
 20. 
 <div><div class="alert alert-primary" role="alert">
-ＮＧＫの『うえきた』（が・`か`・も・と）いう人を しっていますか。
+ＮＧＫの『うえきた』（が・`か`・も・と）いう人を しっていますか。  
+</div><div class="alert alert-info" role="alert">
+Você conhece o Uekita que da NGK?  
 </div></div>
 
 21. 
 <div><div class="alert alert-primary" role="alert">
-バス（`で`・が・に・と）どうぶつえんへ　いきました。
+バス（`で`・が・に・と）どうぶつえんへ　いきました。  
+</div><div class="alert alert-info" role="alert">
+Fui ao どうぶつえん de ônibus.   
+</div><div class="alert alert-warning" role="alert">
+`で` exprime o meio de transporte usado para ir ao どうぶつえん.  
 </div></div>
 
 22. 
 <div><div class="alert alert-primary" role="alert">
-バス（で・が・`に`・と）のって、どうぶつえんへ　いきました。
+バス（で・が・`に`・と）のって、どうぶつえんへ　いきました。  
+</div><div class="alert alert-info" role="alert">
+Subi no ônibus para ir ao どうぶつえん.
+</div><div class="alert alert-warning" role="alert">
+`に` + のります  
 </div></div>
 
 23. 
 <div><div class="alert alert-primary" role="alert">
-Ａ：スマホは　ありましたか。
-Ｂ：さがしましたが、どこ（には・へも・`にも`・へか）ありませんでした。
+Ａ：スマホは　ありましたか。  
+Ｂ：さがしましたが、どこ（には・へも・`にも`・へか）ありませんでした。  
+</div><div class="alert alert-info" role="alert">
+A: Você tem スマホ(smartphone)?  
+B: Você já procurou, mas não encontrou em lugar nenhum.  
+</div><div class="alert alert-dark" role="alert">
+Como não é usado verbo de deslocamento o `へ` pode ser excluído. Para concordar com a forma negativa do verbo, só pode ser a `にも`.  
 </div></div>
 
 24. 
 <div><div class="alert alert-primary" role="alert">
-Ａ：きのう　スーパーで　だれか（の・`に`・を・が）あいましたか。
-Ｂ：いいえ、だれ（には・へも・`にも`・へか）あいませんでした。
-</div></div>
+Ａ：きのう　スーパーで　だれか（の・`に`・を・が）あいましたか。  
+Ｂ：いいえ、だれ（には・へも・`にも`・へか）あいませんでした。  
+</div><div class="alert alert-info" role="alert">
+A: Encontrou alguém ontem no supermecado?  
+B: Não, não encontrei com ninguém.  
+</div><div class="alert alert-warning" role="alert">
+A: `に` + あいましたか  
+B: Concordar com a negativa, logo se usa o `にも`.  
+</div></div> 
 
 25. 
 <div><div class="alert alert-primary" role="alert">
-りんごを　はんぶん（は・の・`に`・と）きってください。
+りんごを　はんぶん（は・の・`に`・と）きってください。  
+</div><div class="alert alert-info" role="alert">
+Corte a maça pela metade, por favor.  
 </div></div>
 
 26. 
 <div><div class="alert alert-primary" role="alert">
-CDは　1まい　３ＲＳです。５まい（は・`で`・も・と）10RSです。
+CDは　1まい　３ＲＳです。５まい（は・`で`・も・と）10RSです。  
+</div><div class="alert alert-info" role="alert">
+1 CD são 3 reais. 5 unidades são 10 reais.  
+</div><div class="alert alert-warning" role="alert">
+`Quantidade` + `で`  
 </div></div>
 
 27. 
 <div><div class="alert alert-primary" role="alert">
-その　こうさてん（`を`・が・に・と）右に　まがってください。
+その　こうさてん（`を`・が・に・と）右に　まがってください。  
+</div><div class="alert alert-info" role="alert">
+Naquele cruzamento vire à direita.  
+</div><div class="alert alert-dark" role="alert">
+Chutei.
 </div></div>
 
 28. 
 <div><div class="alert alert-primary" role="alert">
-わたしは　学校へ いくとき、ＡＶＥＮＩＤＡ（を・が・`に`・と　）とおります。
+わたしは　学校へ いくとき、ＡＶＥＮＩＤＡ（を・が・`に`・と）とおります。  
+</div><div class="alert alert-info" role="alert">
+Quando vou para a escola passo pela Avenida.  
+</div><div class="alert alert-warning" role="alert">
+`に` + とおります  
 </div></div>
 
 29. 
 <div><div class="alert alert-primary" role="alert">
-モジで　バス（を・`に`・で　）のります。
-バスの中（`を`・に・で）ねます。
-ＴＩＥＴＥで　バス（を・`に`・で　）おります。
+モジで　バス（を・`に`・で）のります。  
+バスの中（を・に・`で`）ねます。  
+ＴＩＥＴＥで　バス（を・`に`・で）おります。  
+</div><div class="alert alert-info" role="alert">
+Subi no ônibus em Mogi.  
+Durmi dentro do ônibus.  
+Tem ônibus no Tietê.  
+</div><div class="alert alert-warning" role="alert">
+`に` + のります  
+`で`: Quando está dentro do ônibus e faz alguma ação (dormir, ler, conversar, etc.)  
+`に` + おります  
 </div></div>
 
 30. 
 <div><div class="alert alert-primary" role="alert">
-マリオさんは　なんようびに　来る（`か`　が　を　で）しっていますか。
+マリオさんは　なんようびに　来る（`か`　が　を　で）しっていますか。  
+</div><div class="alert alert-info" role="alert">
+Você sabe o aniversário da senhora Maria? 
+</div><div class="alert alert-dark" role="alert">
+já errei isso, mas não lembro exatamente da explicação.
 </div></div>
