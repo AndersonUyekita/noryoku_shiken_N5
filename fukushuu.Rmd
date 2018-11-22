@@ -111,10 +111,12 @@ O correio ainda está aberto. Vamos logo.
 
 10. 
 <div><div class="alert alert-primary" role="alert">
-（だれ）うんどうを　して いますか。  
+（なにか）うんどうを　して いますか。  
 どれ　　　　　だれ　　　いかが　　　なにか  
 </div><div class="alert alert-info" role="alert">
-Quem está fazendo exercício físicos?  
+O que você está fazendo de exercício físicos?  
+</div><div class="alert alert-danger" role="alert">
+Não pode ser o `だれ` porque deveria ser `だれか`.
 </div></div>
 
 11. 

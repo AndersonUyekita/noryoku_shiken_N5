@@ -1,0 +1,40 @@
+---
+title: "か"
+author: "植北　ひとし"
+date: "22 de novembro de 2018"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    highlight: github
+    include:
+      in_header: header.html
+      after_body: footer.html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Partícula `か`
+
+Os meu maiores erros concentram-se na colocação da partícula `か`. Normalmente, erro quando há duas orações que são unidas pelo `か`.
+
+### Exemplos:
+
+#### Pronome Interrogativo - か　わかりますか／しっていますか
+
+1. 
+<div><div class="alert alert-primary" role="alert">
+先生が　なんじに　来る（か）　わかりますか。  
+</div><div class="alert alert-warning" role="alert">
+A questão separada em duas frases:  
+先生が　なんじに　来るますか。わかりますか。  
+Agora juntas pelo `か`.  
+先生が　なんじに　来るか　わかりますか。  
+Note que se deve retirar o `ます`.  
+
+</div></div>
+
+
+
+

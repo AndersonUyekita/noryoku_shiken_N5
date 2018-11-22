@@ -15,13 +15,6 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<head>
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
-</head>
-
 ## N5 Adjetivo verbo 1
 
 ### Legenda
@@ -94,6 +87,8 @@ Minha irmã mais nova é uma estudante de 17 anos.
 Sensei, não faço idéia de como resolver isso. Contudo, utilizarei a seguinte explicação para embasar a minha resposta:  
 CDは　5まいで　10 reais です。  
 `Quantidade`で `Preço`  
+</div><div class="alert alert-danger" role="alert">
+Neste caso há duas orações: Minha irmã tem 17 anos e ela é estudante. Para conectar as duas deve-se inserir o `で`.
 </div></div>
 
 6. 
@@ -289,6 +284,8 @@ Conjugação do い-adj no presente e no modo negativo.
 Aquele prédio tem um elevador (que é prático).  
 </div><div class="alert alert-dark" role="alert">
 せんせい, chutei essa resposta. あった eu uso no passado. あるで fica estranho porque で é para referir-se ao meio de transporte/locomoção. あって eu uso para dar uma ordem ou para dar uma ordem/sequencia de ações.  
+</div><div class="alert alert-danger" role="alert">
+Note que são duas orações!! A primeira diz respeito ao prédio ter um elevador e a segunda oração é sobre (o elevador) ser prático. Na união destas orações deve-se usar o V-`て`　na primeira oração e inserir uma vírgula.  
 </div></div>
 
 22. 
@@ -361,7 +358,14 @@ Amanhã ventará forte.
 </div><div class="alert alert-warning" role="alert">
 Vocabulário: <ruby>強<rt>つよ</rt></ruby>い = Forte = い-adj  
 A palavra あした situa a frase no futuro. Desta maneira, つよかった que está no passado deve ser descartado. つよくて deveria ser usado caso tivesse algum adjetivo após つよい. つよく deveria ser usado em caso de uma sentença negativa. </div><div class="alert alert-dark" role="alert">
- せんせい, não achei em nenhum livro alguma explicação para esse tipo de frase com terminação V-`でしょう`.  
+せんせい, não achei em nenhum livro alguma explicação para esse tipo de frase com terminação V-`でしょう`.  
+</div><div class="alert alert-danger" role="alert">
+É uma construção que ainda não foi ensinado. Está no Minna no Nihongo nas próximas unidades.  
+A construção exprime hipótese acerca do futuro.  
+マリアさんは　日本人でしょう。　Substantivo  
+あしたは　雨が　ふるでしょう。　Verbo    
+マリアさんは　きれいでしょう。　na-adj  
+こうえんは　ひろいでしょう。　　i-adj  
 </div></div>
 
 28. 
