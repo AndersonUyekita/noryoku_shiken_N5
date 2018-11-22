@@ -1,6 +1,6 @@
 ---
-title: "Joshi"
-author: "Anderson Uyekita"
+title: "じょし　四"
+author: "植北 ひとし"
 date: "22 de novembro de 2018"
 output:
   prettydoc::html_pretty:
@@ -103,72 +103,126 @@ O que tipo de bebida gosta?
 先生, por favor, confirme se a minha justificativa está correta.  
 </div></div>
 
+8. 
+<div><div class="alert alert-primary" role="alert">
+つなみ（`が`・に・で・と）おおぜいの人が　なくなりました。
+</div></div>
 
-８．つなみ（　が・に・で・と　）おおぜいの人が　なくなりました。
+9. 
+<div><div class="alert alert-primary" role="alert">
+Ａ：いえに　だれ（は・に・`か`・の　）いますか。
+Ｂ：いいえ、だれ（は・と・が・`も`）いません。
+</div></div>
 
+10. 
+<div><div class="alert alert-primary" role="alert">
+モデル校の　そば（で・`に`・を・の）パンやが　あります。
+</div></div>
 
+11. 
+<div><div class="alert alert-primary" role="alert">
+Ａ：どこで　パンを　かいますか。
+Ｂ：モデル校の　そば（で・に・を・`の`）パンやで　かいます。
+</div></div>
 
+12. 
+<div><div class="alert alert-primary" role="alert">
+くらく　なりましたね。だれ（に・`か`・を・が）でんきを つけてください。
+</div></div>
 
+13. 
+<div><div class="alert alert-primary" role="alert">
+Ａ：おなかが　すきましたね。なに（が・か・`も`・で）食べませんか。
+Ｂ：いいですね。なに（が・`か`・も・で）たべたいですか。
+</div></div>
 
+14. 
+<div><div class="alert alert-primary" role="alert">
+Ａ：つかれましたね。どこか（が・か・`も`・で）やすみませんか。
+Ｂ：いいですね。あの　ベンチ（`に`・か・も・で）すわりましょう。
+</div></div>
 
-９．Ａ：いえに　だれ（　は・に・か・の　）いますか。
-　　Ｂ：いいえ、だれ（は・と・が・も）いません。
+15. 
+<div><div class="alert alert-primary" role="alert">
+Ａ：犬と　ねこと　どちら（へ・`に`・が・で　）すきですか。
+Ｂ：どちら（に・か・も・で　）すきでは　ありません。
+</div></div>
 
+16. 
+<div><div class="alert alert-primary" role="alert">
+この　シャツ、だれ（`に`・か・を・が）もらいましたか。
+</div></div>
 
+17. 
+<div><div class="alert alert-primary" role="alert">
+この　シャツ、だれ（に・`か`・を・が）くれましたか。
+</div></div>
 
+18. 
+<div><div class="alert alert-primary" role="alert">
+だれ（`は`・に・も・と）えいがに　いきますか。
+</div></div>
 
+19. 
+<div><div class="alert alert-primary" role="alert">
+そのはし（`は`・が・も・を）わたると、こうえんが　あります。
+</div></div>
 
+20. 
+<div><div class="alert alert-primary" role="alert">
+ＮＧＫの『うえきた』（が・`か`・も・と）いう人を しっていますか。
+</div></div>
 
+21. 
+<div><div class="alert alert-primary" role="alert">
+バス（`で`・が・に・と）どうぶつえんへ　いきました。
+</div></div>
 
-10．モデル校の　そば（で・に・を・の）パンやが　あります。
+22. 
+<div><div class="alert alert-primary" role="alert">
+バス（で・が・`に`・と）のって、どうぶつえんへ　いきました。
+</div></div>
 
+23. 
+<div><div class="alert alert-primary" role="alert">
+Ａ：スマホは　ありましたか。
+Ｂ：さがしましたが、どこ（には・へも・`にも`・へか）ありませんでした。
+</div></div>
 
+24. 
+<div><div class="alert alert-primary" role="alert">
+Ａ：きのう　スーパーで　だれか（の・`に`・を・が）あいましたか。
+Ｂ：いいえ、だれ（には・へも・`にも`・へか）あいませんでした。
+</div></div>
 
-11．Ａ：どこで　パンを　かいますか。
-　　Ｂ：モデル校の　そば（で・に・を・の）パンやで　かいます。
+25. 
+<div><div class="alert alert-primary" role="alert">
+りんごを　はんぶん（は・の・`に`・と）きってください。
+</div></div>
 
+26. 
+<div><div class="alert alert-primary" role="alert">
+CDは　1まい　３ＲＳです。５まい（は・`で`・も・と）10RSです。
+</div></div>
 
+27. 
+<div><div class="alert alert-primary" role="alert">
+その　こうさてん（`を`・が・に・と）右に　まがってください。
+</div></div>
 
-12．くらく　なりましたね。だれ（　に・か・を・が　）でんきをつけてください。
+28. 
+<div><div class="alert alert-primary" role="alert">
+わたしは　学校へ いくとき、ＡＶＥＮＩＤＡ（を・が・`に`・と　）とおります。
+</div></div>
 
+29. 
+<div><div class="alert alert-primary" role="alert">
+モジで　バス（を・`に`・で　）のります。
+バスの中（`を`・に・で）ねます。
+ＴＩＥＴＥで　バス（を・`に`・で　）おります。
+</div></div>
 
-
-13．Ａ：おなかが　すきましたね。なに（が・か・も・で）食べませんか。
-　　Ｂ：いいですね。なに（が・か・も・で）たべたいですか。
-
-
-14．Ａ：つかれましたね。どこか（　が・か・も・で　）やすみませんか。
-　　Ｂ：いいですね。あの　ベンチ（　に・か・も・で　）すわりましょう。
-
-
-15．Ａ：犬と　ねこと　どちら（へ・に・が・で　）すきですか。
-　　Ｂ：どちら（に・か・も・で　）すきでは　ありません。
-
-
-
-16．この　シャツ、だれ（に・か・を・が）もらいましたか。
-
-
-17．この　シャツ、だれ（に・か・を・が）くれましたか。
-
-
-18．だれ（は・に・も・と）えいがに　いきますか。
-
-
-19．そのはし（は・が・も・を）わたると、こうえんが　あります。
-
-20．ＮＧＫの『うえきた』（が・か・も・と　）いう人をしっていますか。
-21．バス（で・が・に・と）どうぶつえんへ　いきました。
-22．バス（で・が・に・と）のって、どうぶつえんへ　いきました。
-23．Ａ：スマホは　ありましたか。
-　　Ｂ：さがしましたが、どこ（　には・へも・にも・へか）ありませんでした。
-24．Ａ：きのう　スーパーで　だれか（　の・に・を・が）あいましたか。
-　　Ｂ：いいえ、だれ（　には・へも・にも・へか）あいませんでした。
-25．りんごを　はんぶん（　は・の・に・と　）きってください。
-26．CDは　1まい　３ＲＳです。５まい（　は・で・も・と　）10RSです。
-27．その　こうさてん（を・が・に・と）右に　まがってください。
-28．わたしは　学校へいくとき、ＡＶＥＮＩＤＡ（を・が・に・と　）とおります。
-29．モジで　バス（を・に・で　）のります。
-　　バスの中（　を・に・で　）ねます。
-　　ＴＩＥＴＥで　バス（を・に・で　）おります。
-30．マリオさんは　なんようびに　来る（か　が　を　で）しっていますか。
+30. 
+<div><div class="alert alert-primary" role="alert">
+マリオさんは　なんようびに　来る（`か`　が　を　で）しっていますか。
+</div></div>
